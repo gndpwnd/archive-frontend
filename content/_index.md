@@ -1,4 +1,3 @@
 ---
-title: "Home"
+title: "Blog"
 ---
-This is some info about me.
