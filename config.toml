@@ -1,0 +1,23 @@
+baseURL = "https://archive.dev00ps.com"
+languageCode = "en-US"
+title = "Dev00ps Archive"
+theme = "hago"
+publishDir = "docs"
+
+DefaultContentLanguage = "en"
+metaDataFormat = "yaml"
+disqusShortname = "YOUR_DISQUS_SHORT_NAME"
+googleAnalytics = "UA-XXXXXXXXX-X"
+paginate = 4
+
+
+[Params]
+  description = "DESCRIPTION"
+  subtitle = "YOUR_SUB_TITLE"
+  logo = "/images/logo.png"
+  favicon = "/favicon.ico"
+  comments = true
+
+[Author]
+  name = "YOUR_NAME"
+  website = "https://dev00ps.com"
