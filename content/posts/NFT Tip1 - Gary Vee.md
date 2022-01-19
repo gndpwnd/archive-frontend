@@ -6,6 +6,7 @@ tags: [
     "Gary Vee",
     "Business",
     "Finance",
+    "NFT",
 ]
 type: "post"
 ---

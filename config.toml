@@ -1,4 +1,4 @@
-baseURL = "https://archive.dev00ps.com"
+baseURL = "https://archive.dev00ps.com/"
 languageCode = "en-US"
 title = "Dev00ps Archive"
 theme = "hago"
@@ -6,7 +6,6 @@ publishDir = "docs"
 
 DefaultContentLanguage = "en"
 metaDataFormat = "yaml"
-disqusShortname = "YOUR_DISQUS_SHORT_NAME"
 googleAnalytics = "UA-XXXXXXXXX-X"
 paginate = 4
 

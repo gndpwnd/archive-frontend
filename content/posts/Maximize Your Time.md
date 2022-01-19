@@ -6,6 +6,7 @@ tags: [
     "Gary Vee",
     "Business",
     "Finance",
+    "Discipline",
 ]
 type: "post"
 ---
