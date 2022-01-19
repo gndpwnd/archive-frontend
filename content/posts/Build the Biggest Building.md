@@ -1,7 +1,7 @@
 ---
-title: "Building the Biggest Building"
+title: "Build the Biggest Building"
 date: "2022-01-18"
-description: "hello world"
+description: "gv short"
 tags: [
     "Gary Vee",
     "Business",
@@ -10,7 +10,7 @@ tags: [
 type: "post"
 ---
 {{< rawhtml >}}
-    <video width="400" height="600" controls autoplay>
+    <video width="auto" height="auto" controls>
         <source src="https://clips.dev00ps.com/Gary%20Vee/build_vs_not_build.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}
