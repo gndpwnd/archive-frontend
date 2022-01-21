@@ -5,6 +5,7 @@ description: "jp short"
 tags: [
     "Jordan Peterson",
     "Society",
+    "Joe Rogan",
     "Psychology",
 ]
 type: "post"
