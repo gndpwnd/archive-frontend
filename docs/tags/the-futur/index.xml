@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Futur on Dev00ps Archive</title>
+    <link>https://archive.dev00ps.com/tags/the-futur/</link>
+    <description>Recent content in The Futur on Dev00ps Archive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 22 Jan 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://archive.dev00ps.com/tags/the-futur/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Scaling Creative Businesses</title>
+      <link>https://archive.dev00ps.com/posts/scaling-creative-businesses/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://archive.dev00ps.com/posts/scaling-creative-businesses/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>Sell What Is Important To Your Client</title>
+      <link>https://archive.dev00ps.com/posts/sell-what-is-important-to-your-client/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://archive.dev00ps.com/posts/sell-what-is-important-to-your-client/</guid>
+      <description>  </description>
+    </item>
+    
+  </channel>
+</rss>
