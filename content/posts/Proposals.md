@@ -4,8 +4,8 @@ date: "2022-04-02"
 description: "ah short"
 tags: [
     "Alex Hormozi",
-    "Business",
-    "Mindset",
+    "6-Business",
+    "3-Mindset",
 ]
 type: "post"
 ---

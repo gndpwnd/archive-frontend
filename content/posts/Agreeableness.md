@@ -5,7 +5,7 @@ description: "jp short"
 tags: [
     "Jordan Peterson",
     "2-Psychology",
-    "Mindset",
+    "3-Mindset",
 ]
 type: "post"
 ---

@@ -4,7 +4,7 @@ date: "2022-01-21"
 description: "ss short"
 tags: [
     "Simon Sinek",
-    "Mindset",
+    "3-Mindset",
     "2-Psychology",
 ]
 type: "post"

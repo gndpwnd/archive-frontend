@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>guns on Dev00ps Archive</title>
+    <link>https://archive.dev00ps.com/tags/guns/</link>
+    <description>Recent content in guns on Dev00ps Archive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 02 Apr 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://archive.dev00ps.com/tags/guns/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Basic Malfunctions</title>
+      <link>https://archive.dev00ps.com/posts/basic_malfunctions/</link>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://archive.dev00ps.com/posts/basic_malfunctions/</guid>
+      <description>  </description>
+    </item>
+    
+  </channel>
+</rss>

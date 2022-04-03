@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>!Booklist on Dev00ps Archive</title>
+    <link>https://archive.dev00ps.com/tags/booklist/</link>
+    <description>Recent content in !Booklist on Dev00ps Archive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://archive.dev00ps.com/tags/booklist/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Booklist</title>
+      <link>https://archive.dev00ps.com/posts/booklist/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://archive.dev00ps.com/posts/booklist/</guid>
+      <description>12 Rules for Life: An Antidote to Chaos - Jordan Peterson
+  Maps of Meaning: The Architecture of Belief - Jordan Peterson
+  48 Laws of Power - Robert Greene
+  The Unplugged Alpha - Richard Copper
+  The Intelligent Investor - Benjamin Graham
+  1984 – George Orwell
+  Brave New World – Aldous Huxley
+  Road To Wigan Pier – George Orwell</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,7 +6,7 @@ tags: [
     "Jordan Peterson",
     "Andrew Schultz",
     "2-Psychology",
-    "Mindset",
+    "3-Mindset",
 ]
 type: "post"
 ---
