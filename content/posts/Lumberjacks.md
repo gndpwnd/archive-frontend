@@ -5,7 +5,7 @@ description: "ss short"
 tags: [
     "Simon Sinek",
     "Mindset",
-    "Psychology",
+    "2-Psychology",
 ]
 type: "post"
 ---
