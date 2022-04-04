@@ -5,11 +5,8 @@ description: "jp short"
 tags: [
     "Jordan Peterson",
     "Andrew Schultz",
-
-
 ]
 categories: [
-    
     "Mindset",
     "Psychology",
 ]

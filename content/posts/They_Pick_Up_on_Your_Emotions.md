@@ -4,11 +4,8 @@ date: "2022-02-08"
 description: "rg short"
 tags: [
     "Robert Greene",
-
-
 ]
 categories: [
-    
     "Mindset",
     "Psychology",
 ]

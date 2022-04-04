@@ -4,11 +4,8 @@ date: "2022-01-22"
 description: "tf short"
 tags: [
     "The Futur",
-
-
 ]
 categories: [
-    
     "Business",
     "Finance",
 ]

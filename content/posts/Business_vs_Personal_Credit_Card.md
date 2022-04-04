@@ -4,11 +4,8 @@ date: "2022-02-08"
 description: "di short"
 tags: [
     "Daniel Iles",
-
-
 ]
 categories: [
-    
     "Business",
     "Finance",
 ]

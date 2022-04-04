@@ -4,12 +4,9 @@ date: "2022-04-02"
 description: "t short"
 tags: [
     "Tate",
-
-
     "Rich Cooper"
 ]
 categories: [
-    
     "Mindset",
     "Psychology",
 ]

@@ -4,12 +4,9 @@ date: "2022-01-21"
 description: "jp short"
 tags: [
     "Jordan Peterson",
-
     "Joe Rogan",
-
 ]
 categories: [
-    
     "Society",
     "Psychology",
 ]

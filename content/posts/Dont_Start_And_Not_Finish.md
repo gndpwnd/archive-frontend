@@ -3,12 +3,9 @@ title: "Dont Start And Not Finish"
 date: "2022-01-22"
 description: "misc short"
 tags: [
-
-
     "Kevin Hart",
 ]
 categories: [
-    
     "Mindset",
     "Psychology",
 ]

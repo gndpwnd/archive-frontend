@@ -4,12 +4,9 @@ date: "2022-01-18"
 description: "gv short"
 tags: [
     "Gary Vee",
-
-
     "NFT",
 ]
 categories: [
-    
     "Business",
     "Finance",
 ]

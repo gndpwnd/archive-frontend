@@ -1,14 +1,11 @@
 ---
-title: "20-40-10 Rule"
+title: "20-4-10 Rule"
 date: "2022-04-02"
 description: "di short"
 tags: [
     "Daniel Iles",
-
-
 ]
 categories: [
-    
     "Business",
     "Finance",
 ]

@@ -4,10 +4,8 @@ date: "2022-02-08"
 description: "ah short"
 tags: [
     "Alex Hormozi",
-
 ]
 categories: [
-    
     "Business",
 ]
 type: "post"

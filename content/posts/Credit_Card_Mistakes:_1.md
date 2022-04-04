@@ -3,11 +3,8 @@ title: "Credit Card Mistakes: 1"
 date: "2022-01-22"
 description: "misc short"
 tags: [
-
-
 ]
 categories: [
-    
     "Business",
     "Finance",
 ]

@@ -4,11 +4,8 @@ date: "2022-04-02"
 description: "tr short"
 tags: [
     "Tony Robins",
-
-
 ]
 categories: [
-    
     "Business",
     "Finance",
 ]

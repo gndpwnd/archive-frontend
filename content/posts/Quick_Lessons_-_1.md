@@ -4,11 +4,8 @@ date: "2022-02-08"
 description: "misc short"
 tags: [
     "Misc",
-
-
 ]
 categories: [
-    
     "Business",
     "Finance",
 ]

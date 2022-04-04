@@ -4,12 +4,9 @@ date: "2022-01-21"
 description: "ko short"
 tags: [
     "Kevin O'Leary",
-
-
     "NFT",
 ]
 categories: [
-    
     "Business",
     "Finance",
 ]

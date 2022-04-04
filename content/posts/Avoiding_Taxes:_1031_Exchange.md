@@ -8,7 +8,6 @@ tags: [
     "Realestate"
 ]
 categories: [
-    
 ]
 type: "post"
 ---

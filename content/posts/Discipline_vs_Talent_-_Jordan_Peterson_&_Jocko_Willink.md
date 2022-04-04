@@ -5,11 +5,8 @@ description: "jp short"
 tags: [
     "Jordan Peterson",
     "Jocko Willink",
-
-
 ]
 categories: [
-    
     "Mindset",
     "Psychology",
 ]

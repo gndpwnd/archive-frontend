@@ -4,11 +4,8 @@ date: "2022-04-02"
 description: "misc short"
 tags: [
     "MISC",
-
-
 ]
 categories: [
-    
     "Mindset",
     "Psychology",
 ]

@@ -4,11 +4,8 @@ date: "2022-01-22"
 description: "misc short"
 tags: [
     "Snoop Dogg",
-
-
 ]
 categories: [
-    
     "Mindset",
     "Psychology",
 ]

@@ -4,11 +4,8 @@ date: "2022-04-02"
 description: "tate lecture"
 tags: [
     "Tate",
-
-
 ]
 categories: [
-    
     "Relationships",
     "Psychology",
 ]

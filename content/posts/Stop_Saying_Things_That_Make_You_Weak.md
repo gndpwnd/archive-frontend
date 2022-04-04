@@ -4,11 +4,8 @@ date: "2022-01-22"
 description: "jp short"
 tags: [
     "Jordan Peterson",
-
-
 ]
 categories: [
-    
     "Mindset",
     "Psychology",
 ]

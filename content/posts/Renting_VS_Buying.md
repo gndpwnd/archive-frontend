@@ -4,10 +4,8 @@ date: "2022-01-22"
 description: "misc short"
 tags: [
     "Realestate",
-
 ]
 categories: [
-    
     "Finance",
 ]
 type: "post"

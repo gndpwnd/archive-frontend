@@ -4,11 +4,8 @@ date: "2022-01-21"
 description: "wb clip"
 tags: [
     "Warren Buffet",
-
-
 ]
 categories: [
-    
     "Business",
     "Communication",
 ]

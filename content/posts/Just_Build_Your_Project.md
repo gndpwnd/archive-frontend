@@ -3,11 +3,8 @@ title: "Just Build Your Project"
 date: "2022-01-22"
 description: "misc short"
 tags: [
-
-
 ]
 categories: [
-    
     "Business",
     "Mindset",
 ]

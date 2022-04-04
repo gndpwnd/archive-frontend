@@ -4,12 +4,8 @@ date: "2022-04-02"
 description: "ah short"
 tags: [
     "Alex Hormozi",
-
-
-
 ]
 categories: [
-    
     "Business",
     "Mindset",
     "Psychology",

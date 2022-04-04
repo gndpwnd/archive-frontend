@@ -4,11 +4,8 @@ date: "2022-04-02"
 description: "rk short"
 tags: [
     "Robert Kiyosaki",
-
-
 ]
 categories: [
-    
     "Finance",
     "Mindset",
 ]

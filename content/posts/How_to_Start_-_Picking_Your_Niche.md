@@ -1,14 +1,11 @@
 ---
-title: "Alex Hormozi: 10 Minutes Of Advice"
+title: "How to Start: Picking Your Niche"
 date: "2022-04-02"
 description: "alex hormozi lecture"
 tags: [
     "Alex Hormozi",
-
-
 ]
 categories: [
-    
     "Business",
     "Mindset",
 ]

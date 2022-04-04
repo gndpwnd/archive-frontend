@@ -4,12 +4,8 @@ date: "2022-01-22"
 description: "ss short"
 tags: [
     "Simon Sinek",
-
-
-
 ]
 categories: [
-    
     "Business",
     "Finance",
     "Mindset",
