@@ -15,7 +15,7 @@ categories: [
 type: "post"
 ---
 {{< rawhtml >}}
-    <video width="auto" height="auto" controls>
+    <video style="height:40vh;width:auto" overflow="hidden" controls>
         <source src="https://clips.dev00ps.com/Alex%20Hormozi/How%20to%20Get%20ANYONE39S%20Phone%20Number.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

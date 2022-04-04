@@ -15,7 +15,7 @@ categories: [
 type: "post"
 ---
 {{< rawhtml >}}
-    <video width="auto" height="auto" controls>
+    <video style="height:40vh;width:auto" overflow="hidden" controls>
         <source src="https://clips.dev00ps.com/Kevin%20O%27Leary/volatility.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

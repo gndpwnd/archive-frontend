@@ -15,7 +15,7 @@ categories: [
 type: "post"
 ---
 {{< rawhtml >}}
-    <video width="auto" height="auto" controls>
+    <video style="height:40vh;width:auto" overflow="hidden" controls>
         <source src="https://clips.dev00ps.com/Alex%20Hormozi/1%20Tip%20to%20Network%20with%20Millionaires%20No%20One%20Will%20Tell%20You.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

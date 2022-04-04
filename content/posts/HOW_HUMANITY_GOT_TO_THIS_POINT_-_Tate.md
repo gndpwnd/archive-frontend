@@ -15,7 +15,7 @@ categories: [
 type: "post"
 ---
 {{< rawhtml >}}
-    <video width="auto" height="auto" controls>
+    <video style="height:40vh;width:auto" overflow="hidden" controls>
         <source src="https://clips.dev00ps.com/MISC/HOW%20HUMANITY%20GOT%20TO%20THIS%20POINT.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

@@ -17,7 +17,7 @@ categories: [
 type: "post"
 ---
 {{< rawhtml >}}
-    <video width="auto" height="auto" controls>
+    <video style="height:40vh;width:auto" overflow="hidden" controls>
         <source src="https://clips.dev00ps.com/Simon%20Sinek/want_to_be_a_leader.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

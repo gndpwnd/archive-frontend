@@ -15,7 +15,7 @@ categories: [
 type: "post"
 ---
 {{< rawhtml >}}
-    <video width="auto" height="auto" controls>
+    <video style="height:40vh;width:auto" overflow="hidden" controls>
         <source src="https://lectures.dev00ps.com/ah-vids/How%20to%20get%20what%20you%20want....mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

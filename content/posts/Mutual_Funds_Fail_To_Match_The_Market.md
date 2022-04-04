@@ -15,7 +15,7 @@ categories: [
 type: "post"
 ---
 {{< rawhtml >}}
-    <video width="auto" height="auto" controls>
+    <video style="height:40vh;width:auto" overflow="hidden" controls>
         <source src="https://clips.dev00ps.com/Tony%20Robins/TONY%20ROBBINS%20Mutual%20Funds%20are%20Horrible%20investment.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

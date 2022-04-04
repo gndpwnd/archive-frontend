@@ -15,7 +15,7 @@ categories: [
 type: "post"
 ---
 {{< rawhtml >}}
-    <video width="auto" height="auto" controls>
+    <video style="height:40vh;width:auto" overflow="hidden" controls>
         <source src="https://clips.dev00ps.com/Tate/HOW%20to%20be%20Attractive%20when%20you%20are%20a%20SHORT%20GUY%20-%20Andrew%20Tate.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

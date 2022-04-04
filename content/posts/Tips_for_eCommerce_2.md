@@ -12,7 +12,7 @@ categories: [
 type: "post"
 ---
 {{< rawhtml >}}
-    <video width="auto" height="auto" controls>
+    <video style="height:40vh;width:auto" overflow="hidden" controls>
         <source src="https://clips.dev00ps.com/steviesells/How%20I%20built%20a%20company%20that%20sold%20for%207%20figures%20in%20college.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

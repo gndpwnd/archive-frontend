@@ -15,7 +15,7 @@ categories: [
 type: "post"
 ---
 {{< rawhtml >}}
-    <video width="auto" height="auto" controls>
+    <video style="height:40vh;width:auto" overflow="hidden" controls>
         <source src="https://lectures.dev00ps.com/tate/Andrew%20Tate%20on%20Nobody%20Give39s%20a%20SHIT%20about%20YOU.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

@@ -15,7 +15,7 @@ categories: [
 type: "post"
 ---
 {{< rawhtml >}}
-    <video width="auto" height="auto" controls>
+    <video style="height:40vh;width:auto" overflow="hidden" controls>
         <source src="https://clips.dev00ps.com/Dan%20Pena/Dan%20Pena%20inspiration%20clip%20-%20Subscribe%20and%20check%20out%20other%20video39s%21.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

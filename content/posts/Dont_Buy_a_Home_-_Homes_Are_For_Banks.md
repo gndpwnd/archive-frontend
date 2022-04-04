@@ -17,7 +17,7 @@ categories: [
 type: "post"
 ---
 {{< rawhtml >}}
-    <video width="auto" height="auto" controls>
+    <video style="height:40vh;width:auto" overflow="hidden" controls>
         <source src="https://clips.dev00ps.com/Grant%20Cardone/The%20American%20Dream%20SCAM%21.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

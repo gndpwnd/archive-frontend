@@ -15,7 +15,7 @@ categories: [
 type: "post"
 ---
 {{< rawhtml >}}
-    <video width="auto" height="auto" controls>
+    <video style="height:40vh;width:auto" overflow="hidden" controls>
         <source src="https://lectures.dev00ps.com/ah-vids/If%20you%20think%20like%20this%2C%20you%20will%20stay%20poor%20and%20unhappy....mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

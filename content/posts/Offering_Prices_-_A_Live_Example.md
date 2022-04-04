@@ -17,7 +17,7 @@ categories: [
 type: "post"
 ---
 {{< rawhtml >}}
-    <video width="auto" height="auto" controls>
+    <video style="height:40vh;width:auto" overflow="hidden" controls>
         <source src="https://clips.dev00ps.com/Grant%20Cardone/Mystery%20shopping%20my%20clients%20business%20LIVE%20shorts.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}
