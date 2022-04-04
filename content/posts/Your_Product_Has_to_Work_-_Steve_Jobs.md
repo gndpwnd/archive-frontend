@@ -4,8 +4,13 @@ date: "2022-04-02"
 description: "misc short"
 tags: [
     "MISC",
-    "6-Business",
-    "3-Mindset"
+
+
+]
+categories: [
+    
+    "Business",
+    "Mindset",
 ]
 type: "post"
 ---

@@ -4,8 +4,13 @@ date: "2022-01-22"
 description: "misc short"
 tags: [
     "David Goggins",
-    "2-Psychology",
-    "3-Mindset",
+
+
+]
+categories: [
+    
+    "Mindset",
+    "Psychology",
 ]
 type: "post"
 ---

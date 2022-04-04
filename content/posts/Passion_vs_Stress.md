@@ -4,8 +4,13 @@ date: "2022-01-21"
 description: "ss short"
 tags: [
     "Simon Sinek",
-    "3-Mindset",
-    "2-Psychology",
+
+
+]
+categories: [
+    
+    "Mindset",
+    "Psychology",
 ]
 type: "post"
 ---

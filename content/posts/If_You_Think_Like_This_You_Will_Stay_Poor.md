@@ -4,8 +4,13 @@ date: "2022-04-02"
 description: "alex hormozi lecture"
 tags: [
     "Alex Hormozi",
-    "4-Finance",
-    "3-Mindset"
+
+
+]
+categories: [
+    
+    "Finance",
+    "Mindset",
 ]
 type: "post"
 ---

@@ -4,8 +4,13 @@ date: "2022-04-02"
 description: "di short"
 tags: [
     "Daniel Iles",
-    "6-Business",
-    "4-Finance",
+
+
+]
+categories: [
+    
+    "Business",
+    "Finance",
 ]
 type: "post"
 ---

@@ -5,6 +5,10 @@ description: "misc short"
 tags: [
     "Social Media",
     "Marketing",
+    "Business",
+]
+categories: [
+    
 ]
 type: "post"
 ---

@@ -3,8 +3,13 @@ title: "Just Build Your Project"
 date: "2022-01-22"
 description: "misc short"
 tags: [
-    "6-Business",
-    "3-Mindset",
+
+
+]
+categories: [
+    
+    "Business",
+    "Mindset",
 ]
 type: "post"
 ---

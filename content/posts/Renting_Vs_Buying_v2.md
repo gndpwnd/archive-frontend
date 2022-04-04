@@ -4,9 +4,14 @@ date: "2022-04-02"
 description: "misc short"
 tags: [
     "MISC",
-    "3-Mindset",
-    "4-Finance",
+
+
     "Realestate"
+]
+categories: [
+    
+    "Finance",
+    "Mindset",
 ]
 type: "post"
 ---

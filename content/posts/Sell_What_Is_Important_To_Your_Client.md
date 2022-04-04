@@ -4,9 +4,13 @@ date: "2022-01-22"
 description: "tf short"
 tags: [
     "The Futur",
-    "6-Business",
+    "Business",
     "Sales",
     "Marketing",
+]
+categories: [
+    
+    "Business",
 ]
 type: "post"
 ---

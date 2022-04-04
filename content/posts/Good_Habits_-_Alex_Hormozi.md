@@ -4,8 +4,13 @@ date: "2022-02-08"
 description: "ah short"
 tags: [
     "Alex Hormozi",
-    "6-Business",
-    "2-Psychology",
+
+
+]
+categories: [
+    
+    "Business",
+    "Psychology",
 ]
 type: "post"
 ---

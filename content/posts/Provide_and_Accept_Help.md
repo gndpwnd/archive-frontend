@@ -4,10 +4,17 @@ date: "2022-01-21"
 description: "ss short"
 tags: [
     "Simon Sinek",
-    "3-Mindset",
-    "2-Psychology",
-    "4-Communication",
-    "8-Society",
+
+
+
+
+]
+categories: [
+    
+    "Society",
+    "Communication",
+    "Mindset",
+    "Psychology",
 ]
 type: "post"
 ---

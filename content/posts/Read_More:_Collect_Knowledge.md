@@ -4,8 +4,13 @@ date: "2022-01-21"
 description: "wb clip"
 tags: [
     "Warren Buffet",
-    "6-Business",
-    "3-Mindset",
+
+
+]
+categories: [
+    
+    "Business",
+    "Mindset",
 ]
 type: "post"
 ---

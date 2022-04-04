@@ -4,9 +4,15 @@ date: "2022-04-02"
 description: "alex hormozi lecture"
 tags: [
     "Alex Hormozi",
-    "3-Mindset",
-    "7-Fresh&Fit"
+
+
 ]
+categories: [
+    
+    "Fresh and Fit",
+    "Mindset",
+]
+
 type: "post"
 ---
 {{< rawhtml >}}

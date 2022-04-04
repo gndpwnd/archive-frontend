@@ -4,8 +4,13 @@ date: "2022-04-02"
 description: "t short"
 tags: [
     "Tate",
-    "3-Mindset",
-    "6-Business"
+
+
+]
+categories: [
+    
+    "Business",
+    "Mindset",
 ]
 type: "post"
 ---

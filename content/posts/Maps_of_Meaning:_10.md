@@ -4,8 +4,12 @@ date: "2022-01-20"
 description: "jp lecture"
 tags: [
     "Jordan Peterson",
-    "2-Psychology",
+
     "Maps of Meaning",
+]
+categories: [
+    
+    "Psychology",
 ]
 type: "post"
 ---

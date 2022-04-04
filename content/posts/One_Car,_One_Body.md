@@ -4,8 +4,13 @@ date: "2022-01-21"
 description: "wb clip"
 tags: [
     "Warren Buffet",
-    "3-Mindset",
-    "2-Psychology",
+
+
+]
+categories: [
+    
+    "Mindset",
+    "Psychology",
 ]
 type: "post"
 ---

@@ -4,8 +4,12 @@ date: "2022-04-02"
 description: "w2m short"
 tags: [
     "W2M",
-    "4-Finance",
-    "Real Estate"
+
+    "Realestate",
+]
+categories: [
+    
+    "Finance",
 ]
 type: "post"
 ---

@@ -4,8 +4,13 @@ date: "2022-01-21"
 description: "jp clip"
 tags: [
     "Jordan Peterson",
-    "8-Society",
-    "2-Psychology",
+
+
+]
+categories: [
+    
+    "Society",
+    "Psychology",
 ]
 type: "post"
 ---

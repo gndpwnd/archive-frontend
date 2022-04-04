@@ -4,9 +4,15 @@ date: "2022-02-08"
 description: "dp short"
 tags: [
     "Dan Pena",
-    "6-Business",
-    "3-Mindset",
-    "2-Psychology",
+
+
+
+]
+categories: [
+    
+    "Business",
+    "Mindset",
+    "Psychology",
 ]
 type: "post"
 ---

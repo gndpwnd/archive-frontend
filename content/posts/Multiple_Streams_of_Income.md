@@ -4,8 +4,13 @@ date: "2022-01-21"
 description: "mt short"
 tags: [
     "Mark Tilbury",
-    "4-Finance",
-    "6-Business",
+
+
+]
+categories: [
+    
+    "Business",
+    "Finance",
 ]
 type: "post"
 ---

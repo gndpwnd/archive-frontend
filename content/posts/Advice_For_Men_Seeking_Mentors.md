@@ -4,8 +4,11 @@ date: "2022-02-04"
 description: "rc short"
 tags: [
     "Rich Cooper",
-    "Growth",
+
     "Tate"
+]
+categories: [
+    
 ]
 type: "post"
 ---

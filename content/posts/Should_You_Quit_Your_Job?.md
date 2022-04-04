@@ -4,8 +4,13 @@ date: "2022-02-08"
 description: "mc short"
 tags: [
     "Mark Cuban",
-    "6-Business",
-    "4-Finance",
+
+
+]
+categories: [
+    
+    "Business",
+    "Finance",
 ]
 type: "post"
 ---

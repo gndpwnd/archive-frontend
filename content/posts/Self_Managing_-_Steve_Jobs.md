@@ -4,9 +4,15 @@ date: "2022-02-08"
 description: "misc short"
 tags: [
     "Misc",
-    "6-Business",
-    "4-Finance",
-    "3-Mindset",
+
+
+
+]
+categories: [
+    
+    "Business",
+    "Finance",
+    "Mindset",
 ]
 type: "post"
 ---

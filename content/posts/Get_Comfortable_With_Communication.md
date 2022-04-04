@@ -4,8 +4,13 @@ date: "2022-01-21"
 description: "wb clip"
 tags: [
     "Warren Buffet",
-    "6-Business",
-    "4-Communication",
+
+
+]
+categories: [
+    
+    "Business",
+    "Communication",
 ]
 type: "post"
 ---

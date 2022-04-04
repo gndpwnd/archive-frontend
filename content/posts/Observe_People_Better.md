@@ -4,8 +4,13 @@ date: "2022-02-08"
 description: "rg short"
 tags: [
     "Robert Greene",
-    "2-Psychology",
-    "3-Mindset",
+
+
+]
+categories: [
+    
+    "Mindset",
+    "Psychology",
 ]
 type: "post"
 ---

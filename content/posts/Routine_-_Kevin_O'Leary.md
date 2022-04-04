@@ -4,7 +4,11 @@ date: "2022-01-21"
 description: "ko short"
 tags: [
     "Kevin O'Leary",
-    "3-Mindset",
+
+]
+categories: [
+    
+    "Mindset",
 ]
 type: "post"
 ---

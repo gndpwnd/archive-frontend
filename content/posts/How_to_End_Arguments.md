@@ -4,8 +4,13 @@ date: "2022-04-02"
 description: "jordan peterson lecture"
 tags: [
     "Jordan Peterson",
-    "3-Mindset",
-    "2-Psychology"
+
+
+]
+categories: [
+    
+    "Mindset",
+    "Psychology",
 ]
 type: "post"
 ---

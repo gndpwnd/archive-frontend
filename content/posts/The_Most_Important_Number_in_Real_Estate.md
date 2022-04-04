@@ -4,9 +4,14 @@ date: "2022-02-08"
 description: "gc short"
 tags: [
     "Grant Cardone",
-    "6-Business",
-    "4-Finance",
-    "Real Estate",
+
+
+    "Realestate",
+]
+categories: [
+    
+    "Business",
+    "Finance",
 ]
 type: "post"
 ---

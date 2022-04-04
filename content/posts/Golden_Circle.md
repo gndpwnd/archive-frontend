@@ -4,9 +4,15 @@ date: "2022-01-21"
 description: "ss short"
 tags: [
     "Simon Sinek",
-    "3-Mindset",
-    "6-Business",
-    "4-Communication",
+
+
+
+]
+categories: [
+    
+    "Business",
+    "Communication",
+    "Mindset",
 ]
 type: "post"
 ---

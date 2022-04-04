@@ -4,8 +4,13 @@ date: "2022-01-22"
 description: "misc short"
 tags: [
     "Snoop Dogg",
-    "3-Mindset",
-    "2-Psychology",
+
+
+]
+categories: [
+    
+    "Mindset",
+    "Psychology",
 ]
 type: "post"
 ---

@@ -4,7 +4,11 @@ date: "2022-02-04"
 description: "ko short"
 tags: [
     "Kevin O'Leary",
-    "6-Business"
+
+]
+categories: [
+    
+    "Business",
 ]
 type: "post"
 ---

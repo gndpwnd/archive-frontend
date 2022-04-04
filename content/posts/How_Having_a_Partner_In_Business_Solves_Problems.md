@@ -4,10 +4,17 @@ date: "2022-01-21"
 description: "gc short"
 tags: [
     "Grant Cardone",
-    "3-Mindset",
-    "4-Finance",
-    "6-Business",
-    "4-Communication",
+
+
+
+
+]
+categories: [
+    
+    "Business",
+    "Communication",
+    "Finance",
+    "Mindset",
 ]
 type: "post"
 ---

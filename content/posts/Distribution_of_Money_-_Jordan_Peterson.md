@@ -4,8 +4,13 @@ date: "2022-01-22"
 description: "misc short"
 tags: [
     "Jordan Peterson",
-    "6-Business",
-    "8-Society",
+
+
+]
+categories: [
+    
+    "Society",
+    "Business",
 ]
 type: "post"
 ---

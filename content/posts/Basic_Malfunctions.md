@@ -6,6 +6,9 @@ tags: [
     "guns",
     "TTT"
 ]
+categories: [
+    
+]
 type: "post"
 ---
 {{< rawhtml >}}

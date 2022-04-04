@@ -4,9 +4,15 @@ date: "2022-01-22"
 description: "ko short"
 tags: [
     "Kevin O'Leary",
-    "6-Business",
-    "4-Finance",
-    "8-Society",
+
+
+
+]
+categories: [
+    
+    "Society",
+    "Business",
+    "Finance",
 ]
 type: "post"
 ---

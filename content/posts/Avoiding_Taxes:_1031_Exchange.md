@@ -7,6 +7,9 @@ tags: [
     "Finacne",
     "Realestate"
 ]
+categories: [
+    
+]
 type: "post"
 ---
 {{< rawhtml >}}

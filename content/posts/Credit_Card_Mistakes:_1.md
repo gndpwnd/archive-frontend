@@ -3,8 +3,13 @@ title: "Credit Card Mistakes: 1"
 date: "2022-01-22"
 description: "misc short"
 tags: [
-    "6-Business",
-    "4-Finance",
+
+
+]
+categories: [
+    
+    "Business",
+    "Finance",
 ]
 type: "post"
 ---

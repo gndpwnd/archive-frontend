@@ -4,7 +4,11 @@ date: "2022-04-02"
 description: "rk short"
 tags: [
     "Robert Kiyosaki",
-    "3-Mindset"
+
+]
+categories: [
+    
+    "Mindset",
 ]
 type: "post"
 ---

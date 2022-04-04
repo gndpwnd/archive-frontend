@@ -3,10 +3,16 @@ title: "Work-Life Circle - Jeff Bezos"
 date: "2022-01-22"
 description: "misc short"
 tags: [
-    "6-Business",
-    "3-Mindset",
-    "2-Psychology",
+
+
+
     "Jeff Bezos",
+]
+categories: [
+    
+    "Business",
+    "Mindset",
+    "Psychology",
 ]
 type: "post"
 ---

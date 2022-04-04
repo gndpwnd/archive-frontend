@@ -3,9 +3,14 @@ title: "Reducing Risk - Jeff Bezos"
 date: "2022-01-22"
 description: "misc short"
 tags: [
-    "6-Business",
-    "3-Mindset",
+
+
     "Jeff Bezos",
+]
+categories: [
+    
+    "Business",
+    "Mindset",
 ]
 type: "post"
 ---

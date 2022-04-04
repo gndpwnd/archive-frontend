@@ -4,8 +4,13 @@ date: "2022-04-02"
 description: "misc short"
 tags: [
     "MISC",
-    "3-Mindset",
-    "8-Society"
+
+
+]
+categories: [
+    
+    "Society",
+    "Mindset",
 ]
 type: "post"
 ---

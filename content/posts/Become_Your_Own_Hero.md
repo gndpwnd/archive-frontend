@@ -4,7 +4,11 @@ date: "2022-04-02"
 description: "misc short"
 tags: [
     "MISC",
-    "2-Psychology"
+
+]
+categories: [
+    
+    "Psychology",
 ]
 type: "post"
 ---

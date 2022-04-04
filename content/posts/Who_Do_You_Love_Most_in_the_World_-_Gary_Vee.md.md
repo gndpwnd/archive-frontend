@@ -4,8 +4,13 @@ date: "2022-02-04"
 description: "gv short"
 tags: [
     "Gary Vee",
-    "6-Business",
-    "4-Finance"
+
+
+]
+categories: [
+    
+    "Business",
+    "Finance",
 ]
 type: "post"
 ---

@@ -4,7 +4,11 @@ date: "2022-04-02"
 description: "misc short"
 tags: [
     "MISC",
-    "4-Finance"
+
+]
+categories: [
+    
+    "Finance",
 ]
 type: "post"
 ---

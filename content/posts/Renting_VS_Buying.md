@@ -3,8 +3,12 @@ title: "Renting VS Buying"
 date: "2022-01-22"
 description: "misc short"
 tags: [
-    "Real Estate",
-    "4-Finance",
+    "Realestate",
+
+]
+categories: [
+    
+    "Finance",
 ]
 type: "post"
 ---
