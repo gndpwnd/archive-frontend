@@ -1,0 +1,25 @@
+<div class="top-area">
+  <div class="top-video {{ if .Title }}top-video-small {{ end }}">
+    <div id="waves" class="video"></div>
+    <div class="container">
+      <div class="title-message">
+        {{ if .Title }}
+        <a href="{{ .Permalink }}">
+          <h1>
+            {{ .Title }}
+          </h1>
+        </a>
+        {{ else }}
+        <a href="/">
+          <h1>
+            {{ .Site.Title }}
+          </h1>
+        </a>
+        <h2>
+          {{ .Site.Params.subtitle }}
+        </h2>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</div>

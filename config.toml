@@ -1,7 +1,7 @@
 baseURL = "https://archive.dev00ps.com/"
 languageCode = "en-US"
 title = "Dev00ps Archive"
-theme = "hago"
+theme = "not_hago"
 publishDir = "docs"
 
 DefaultContentLanguage = "en"
