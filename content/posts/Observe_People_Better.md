@@ -13,6 +13,6 @@ type: "post"
 ---
 {{< rawhtml >}}
     <video style="height:40vh;width:auto" overflow="hidden" controls>
-        <source src="https://clips.dev00ps.com/Robert%20Greene/Observe%20people%20better.mp4" type="video/mp4"> 
+        <source src="https://clips.dev00ps.com/Robert_Greene/Observe_people_better.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

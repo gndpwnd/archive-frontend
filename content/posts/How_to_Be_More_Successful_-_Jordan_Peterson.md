@@ -13,6 +13,6 @@ type: "post"
 ---
 {{< rawhtml >}}
     <video style="height:40vh;width:auto" overflow="hidden" controls>
-        <source src="https://lectures.dev00ps.com/jp-vids/Jordan%20Peterson%20What%20To%20Do%20To%20Be%20Successful.mp4" type="video/mp4"> 
+        <source src="https://lectures.dev00ps.com/jp-vids/Jordan_Peterson_What_To_Do_To_Be_Successful.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

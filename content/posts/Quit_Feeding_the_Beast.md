@@ -14,6 +14,6 @@ type: "post"
 ---
 {{< rawhtml >}}
     <video style="height:40vh;width:auto" overflow="hidden" controls>
-        <source src="https://clips.dev00ps.com/Grant%20Cardone/Grant%20Cardone%20Exposes%20How%20Politics%20Really%20Works%20%F0%9F%97%A3%20realestate%20doriangroup82%20grantcardone.mp4" type="video/mp4"> 
+        <source src="https://clips.dev00ps.com/Grant_ardone/Grant_ardone_Exposes_How_Politics_Really_Works_%F0%9F%97%A3_realestate_doriangroup82_grantcardone.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

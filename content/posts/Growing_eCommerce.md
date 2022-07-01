@@ -13,6 +13,6 @@ type: "post"
 ---
 {{< rawhtml >}}
     <video style="height:40vh;width:auto" overflow="hidden" controls>
-        <source src="https://clips.dev00ps.com/Gary%20Vee/4%20Steps%20To%20Growing%20Your%20Own%20Brand%20shorts.mp4" type="video/mp4"> 
+        <source src="https://clips.dev00ps.com/Gary_Vee/4_Steps_To_Growing_Your_Own_Brand_shorts.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

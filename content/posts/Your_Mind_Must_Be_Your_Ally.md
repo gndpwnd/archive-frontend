@@ -13,6 +13,6 @@ type: "post"
 ---
 {{< rawhtml >}}
     <video style="height:40vh;width:auto" overflow="hidden" controls>
-        <source src="https://clips.dev00ps.com/Tate/YOUR%20MIND%20MUST%20BE%20YOUR%20ALLY%20shorts%20mondaymotivation.mp4" type="video/mp4"> 
+        <source src="https://clips.dev00ps.com/Tate/YOUR_MIND_MUST_BE_YOUR_ALLY_shorts_mondaymotivation.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

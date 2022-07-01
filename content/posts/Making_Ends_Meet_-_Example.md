@@ -15,6 +15,6 @@ type: "post"
 ---
 {{< rawhtml >}}
     <video style="height:40vh;width:auto" overflow="hidden" controls>
-        <source src="https://clips.dev00ps.com/MISC/He%20Owns%206%20Rentals%20But%20Lives%20At%20Home%20With%20Mom%3F%21%3F.mp4" type="video/mp4"> 
+        <source src="https://clips.dev00ps.com/MISC/He_Owns_6_Rentals_But_Lives_At_Home_With_Mom%3F_1%3F.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

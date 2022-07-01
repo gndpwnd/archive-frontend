@@ -13,6 +13,6 @@ type: "post"
 ---
 {{< rawhtml >}}
     <video style="height:40vh;width:auto" overflow="hidden" controls>
-        <source src="https://clips.dev00ps.com/MISC/How%20to%20know%20if%20you%20understand%20your%20goal%21%20shorts%20motivation%20inspiration%20success.mp4" type="video/mp4"> 
+        <source src="https://clips.dev00ps.com/MISC/How_to_know_if_you_understand_your_goal_1_shorts_motivation_inspiration_success.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

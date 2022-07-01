@@ -13,6 +13,6 @@ type: "post"
 ---
 {{< rawhtml >}}
     <video style="height:40vh;width:auto" overflow="hidden" controls>
-        <source src="https://clips.dev00ps.com/Tate/ULTIMATE%20MOTIVATION%20motivateyourself.mp4" type="video/mp4"> 
+        <source src="https://clips.dev00ps.com/Tate/ULTIMATE_MOTIVATION_motivateyourself.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

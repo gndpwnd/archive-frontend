@@ -13,6 +13,6 @@ type: "post"
 ---
 {{< rawhtml >}}
     <video style="height:40vh;width:auto" overflow="hidden" controls>
-        <source src="https://clips.dev00ps.com/Tate/BE%20YOUR%20OWN%20LIGHT%20IN%20THIS%20DARK%20WORLD%20shorts%20motivateyourself.mp4" type="video/mp4"> 
+        <source src="https://clips.dev00ps.com/Tate/BE_YOUR_OWN_LIGHT_IN_THIS_DARK_WORLD_shorts_motivateyourself.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

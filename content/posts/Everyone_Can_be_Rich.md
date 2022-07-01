@@ -13,6 +13,6 @@ type: "post"
 ---
 {{< rawhtml >}}
     <video style="height:40vh;width:auto" overflow="hidden" controls>
-        <source src="https://clips.dev00ps.com/MISC/everyon%20can%20be%20rich.mp4" type="video/mp4"> 
+        <source src="https://clips.dev00ps.com/MISC/everyon_can_be_rich.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

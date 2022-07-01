@@ -13,6 +13,6 @@ type: "post"
 ---
 {{< rawhtml >}}
     <video style="height:40vh;width:auto" overflow="hidden" controls>
-        <source src="https://clips.dev00ps.com/Robert%20Greene/The%20ability%20to%20influence.mp4" type="video/mp4"> 
+        <source src="https://clips.dev00ps.com/Robert_Greene/The_ability_to_influence.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

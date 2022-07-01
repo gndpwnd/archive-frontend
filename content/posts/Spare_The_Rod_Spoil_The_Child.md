@@ -12,6 +12,6 @@ type: "post"
 ---
 {{< rawhtml >}}
     <video style="height:40vh;width:auto" overflow="hidden" controls>
-        <source src="https://clips.dev00ps.com/MISC/Kevin%20Gates%20On%20Respect%20rapper%20interview.mp4" type="video/mp4"> 
+        <source src="https://clips.dev00ps.com/MISC/Kevin_Gates_On_Respect_rapper_interview.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

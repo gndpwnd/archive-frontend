@@ -12,6 +12,6 @@ type: "post"
 ---
 {{< rawhtml >}}
     <video style="height:40vh;width:auto" overflow="hidden" controls>
-        <source src="https://clips.dev00ps.com/Kevin%20O%27Leary/Mistakes%20Are%20Part%20Of%20Being%20Successful%20-%20Kevin%20O39%20Leary.mp4" type="video/mp4"> 
+        <source src="https://clips.dev00ps.com/Kevin_O_7Leary/Mistakes_Are_Part_Of_Being_Successful_-_Kevin_O__Leary.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

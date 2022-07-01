@@ -14,6 +14,6 @@ type: "post"
 ---
 {{< rawhtml >}}
     <video style="height:40vh;width:auto" overflow="hidden" controls>
-        <source src="https://clips.dev00ps.com/Grant%20Cardone/You39re%20SCAMMED%20Without%20Even%20KNOWING%20It%20-%20Grant%20Cardone.mp4" type="video/mp4"> 
+        <source src="https://clips.dev00ps.com/Grant_ardone/You_re_SCAMMED_Without_Even_KNOWING_It_-_Grant_ardone.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

@@ -13,6 +13,6 @@ type: "post"
 ---
 {{< rawhtml >}}
     <video style="height:40vh;width:auto" overflow="hidden" controls>
-        <source src="https://clips.dev00ps.com/MISC/HOW%20TO%20LEGALLY%20AVOID%20TAXES.mp4" type="video/mp4"> 
+        <source src="https://clips.dev00ps.com/MISC/HOW_TO_LEGALLY_AVOID_TAXES.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

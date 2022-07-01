@@ -13,6 +13,6 @@ type: "post"
 ---
 {{< rawhtml >}}
     <video style="height:40vh;width:auto" overflow="hidden" controls>
-        <source src="https://clips.dev00ps.com/Robert%20Kiyosaki/Robert%20Kiyosaki%20On%20Why%20Steve%20Jobs%20Paycheque%20Was%201%20A%20Year%F0%9F%A4%AF.mp4" type="video/mp4"> 
+        <source src="https://clips.dev00ps.com/Robert_Kiyosaki/Robert_Kiyosaki_On_Why_Steve_Jobs_Paycheque_Was_1_A_Year%F0%9F%A4%AF.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

@@ -13,6 +13,6 @@ type: "post"
 ---
 {{< rawhtml >}}
     <video style="height:40vh;width:auto" overflow="hidden" controls>
-        <source src="https://clips.dev00ps.com/Dan%20Peña/Why%20Dan%20Peña%20Don39t%20Worry%20About%20Saving%20Money%20-%20Dan%20Peña%20Shorts.mp4" type="video/mp4"> 
+        <source src="https://clips.dev00ps.com/Dan_Peña/Why_Dan_Peña_Don_t_Worry_About_Saving_Money_-_Dan_Peña_Shorts.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

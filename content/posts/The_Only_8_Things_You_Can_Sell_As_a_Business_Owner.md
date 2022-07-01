@@ -12,6 +12,6 @@ type: "post"
 ---
 {{< rawhtml >}}
     <video style="height:40vh;width:auto" overflow="hidden" controls>
-        <source src="https://clips.dev00ps.com/Alex%20Hormozi/The%20ONLY%208%20Things%20You%20Can%20Sell%20as%20a%20Business%20Owner.mp4" type="video/mp4"> 
+        <source src="https://clips.dev00ps.com/Alex_Hormozi/The_ONLY_8_Things_You_an_Sell_as_a_Business_Owner.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

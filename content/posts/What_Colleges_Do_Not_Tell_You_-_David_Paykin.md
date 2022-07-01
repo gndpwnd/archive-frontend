@@ -13,6 +13,6 @@ type: "post"
 ---
 {{< rawhtml >}}
     <video style="height:40vh;width:auto" overflow="hidden" controls>
-        <source src="https://clips.dev00ps.com/MISC/Things%20About%20College%20NOBODY%20Tells%20You%20Part%201%20shorts.mp4" type="video/mp4"> 
+        <source src="https://clips.dev00ps.com/MISC/Things_About_ollege_NOBODY_Tells_You_Part_1_shorts.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

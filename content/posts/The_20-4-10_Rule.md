@@ -13,6 +13,6 @@ type: "post"
 ---
 {{< rawhtml >}}
     <video style="height:40vh;width:auto" overflow="hidden" controls>
-        <source src="https://clips.dev00ps.com/Daniel%20Iles/Can%20You%20Actually%20Afford%20A%20Tesla%3F.mp4" type="video/mp4"> 
+        <source src="https://clips.dev00ps.com/Daniel_Iles/Can_You_Actually_Afford_A_Tesla%3F.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

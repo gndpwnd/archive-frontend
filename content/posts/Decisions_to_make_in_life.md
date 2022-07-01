@@ -14,6 +14,6 @@ type: "post"
 ---
 {{< rawhtml >}}
     <video style="height:40vh;width:auto" overflow="hidden" controls>
-        <source src="https://clips.dev00ps.com/Alex%20Hormozi/The%204%20Biggest%20Decisions%20You%20Need%20To%20Make%20In%20Your%20Life.mp4" type="video/mp4"> 
+        <source src="https://clips.dev00ps.com/Alex_Hormozi/The_4_Biggest_Decisions_You_Need_To_Make_In_Your_Life.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

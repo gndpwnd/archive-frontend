@@ -13,6 +13,6 @@ type: "post"
 ---
 {{< rawhtml >}}
     <video style="height:40vh;width:auto" overflow="hidden" controls>
-        <source src="https://clips.dev00ps.com/Alex%20Hormozi/Watch%20This%20If%20You39re%2018%20and%20Want%20to%20be%20a%20Billionaire...mp4" type="video/mp4"> 
+        <source src="https://clips.dev00ps.com/Alex_Hormozi/Watch_This_If_You_re_18_and_Want_to_be_a_Billionaire...mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

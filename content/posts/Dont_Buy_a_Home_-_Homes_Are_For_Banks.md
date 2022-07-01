@@ -14,6 +14,6 @@ type: "post"
 ---
 {{< rawhtml >}}
     <video style="height:40vh;width:auto" overflow="hidden" controls>
-        <source src="https://clips.dev00ps.com/Grant%20Cardone/The%20American%20Dream%20SCAM%21.mp4" type="video/mp4"> 
+        <source src="https://clips.dev00ps.com/Grant_ardone/The_American_Dream_SCAM_1.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

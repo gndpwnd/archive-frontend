@@ -14,6 +14,6 @@ type: "post"
 ---
 {{< rawhtml >}}
     <video style="height:40vh;width:auto" overflow="hidden" controls>
-        <source src="https://clips.dev00ps.com/Jordan%20Peterson/communism.mp4" type="video/mp4"> 
+        <source src="https://clips.dev00ps.com/Jordan_Peterson/communism.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

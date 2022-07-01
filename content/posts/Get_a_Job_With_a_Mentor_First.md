@@ -13,6 +13,6 @@ type: "post"
 ---
 {{< rawhtml >}}
     <video style="height:40vh;width:auto" overflow="hidden" controls>
-        <source src="https://clips.dev00ps.com/Grant%20Cardone/get_a_job.mp4" type="video/mp4"> 
+        <source src="https://clips.dev00ps.com/Grant_ardone/get_a_job.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

@@ -14,6 +14,6 @@ type: "post"
 ### Marionettes & Individuals (Part 2)
 {{< rawhtml >}}
     <video style="height:40vh;width:auto" overflow="hidden" controls>
-        <source src="https://lectures.dev00ps.com/maps-of-meaning/2017%20Maps%20of%20Meaning%2003%20-%20Marionettes%20and%20Individuals%20%28Part%202%29.mp4" type="video/mp4"> 
+        <source src="https://lectures.dev00ps.com/maps-of-meaning/2017_Maps_of_Meaning_03_-_Marionettes_and_Individuals__8Part_2_9.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

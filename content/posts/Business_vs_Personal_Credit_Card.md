@@ -13,6 +13,6 @@ type: "post"
 ---
 {{< rawhtml >}}
     <video style="height:40vh;width:auto" overflow="hidden" controls>
-        <source src="https://clips.dev00ps.com/Daniel%20Iles/Business%20Vs%20Personal%20Credit.mp4" type="video/mp4"> 
+        <source src="https://clips.dev00ps.com/Daniel_Iles/Business_Vs_Personal_redit.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

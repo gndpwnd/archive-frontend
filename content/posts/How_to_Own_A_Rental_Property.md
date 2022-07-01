@@ -13,6 +13,6 @@ type: "post"
 ---
 {{< rawhtml >}}
     <video style="height:40vh;width:auto" overflow="hidden" controls>
-        <source src="https://clips.dev00ps.com/Wholsale2Millions/Own%20Real%20Estate%20With%20No%20MONEY%20shorts%20youtubeshorts.mp4" type="video/mp4"> 
+        <source src="https://clips.dev00ps.com/Wholsale2Millions/Own_Real_Estate_With_No_MONEY_shorts_youtubeshorts.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

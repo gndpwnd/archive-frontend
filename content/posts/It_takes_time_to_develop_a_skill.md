@@ -13,6 +13,6 @@ type: "post"
 ---
 {{< rawhtml >}}
     <video style="height:40vh;width:auto" overflow="hidden" controls>
-        <source src="https://clips.dev00ps.com/Grant%20Cardone/It%20takes%20time%20to%20develop%20a%20skill.mp4" type="video/mp4"> 
+        <source src="https://clips.dev00ps.com/Grant_ardone/It_takes_time_to_develop_a_skill.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

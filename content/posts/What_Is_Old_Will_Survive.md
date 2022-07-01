@@ -13,6 +13,6 @@ type: "post"
 ---
 {{< rawhtml >}}
     <video style="height:40vh;width:auto" overflow="hidden" controls>
-        <source src="https://clips.dev00ps.com/Robert%20Kiyosaki/Robert%20Kiyosaki%20Says%20%E2%80%9CBitcoin%20Will%20Not%20Survive%21%E2%80%9D.mp4" type="video/mp4"> 
+        <source src="https://clips.dev00ps.com/Robert_Kiyosaki/Robert_Kiyosaki_Says_%E2%80%9CBitcoin_Will_Not_Survive_1%E2%80%9D.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}
