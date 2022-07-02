@@ -6,7 +6,7 @@ tags: [
     "Shawn Ryan",
 ]
 categories: [
-    "Mindset"
+    "Mindset",
     "Society"
 ]
 type: "post"

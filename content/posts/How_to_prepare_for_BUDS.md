@@ -6,7 +6,7 @@ tags: [
     "Shawn Ryan",
 ]
 categories: [
-    "Mindset"
+    "Mindset",
     "Fresh and Fit"
 ]
 type: "post"
