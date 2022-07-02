@@ -1,5 +1,5 @@
 ---
-title: "Maps of Meaning: 12 - Final"
+title: "Maps Of Meaning: 12 - Final"
 date: "2022-01-20"
 description: "jp lecture"
 tags: [

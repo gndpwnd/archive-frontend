@@ -1,5 +1,5 @@
 ---
-title: "The Only 8 Things You Can Sell As a Business Owner"
+title: "The Only 8 Things You Can Sell As A Business Owner"
 date: "2022-02-08"
 description: "ah short"
 tags: [

@@ -1,5 +1,5 @@
 ---
-title: "How to Own A Rental Property"
+title: "How To Own A Rental Property"
 date: "2022-04-02"
 description: "w2m short"
 tags: [

@@ -1,5 +1,5 @@
 ---
-title: "Wealth is Not a Number"
+title: "Wealth Is Not A Number"
 date: "2022-04-02"
 description: "ah short"
 tags: [

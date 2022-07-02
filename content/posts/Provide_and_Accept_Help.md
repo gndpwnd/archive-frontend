@@ -1,5 +1,5 @@
 ---
-title: "Provide and Accept Help"
+title: "Provide And Accept Help"
 date: "2022-01-21"
 description: "ss short"
 tags: [

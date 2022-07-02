@@ -1,5 +1,5 @@
 ---
-title: "Know How to Lose"
+title: "Know How To Lose"
 date: "2022-02-04"
 description: "gc short"
 tags: [

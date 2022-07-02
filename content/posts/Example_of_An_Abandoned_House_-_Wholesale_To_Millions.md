@@ -1,5 +1,5 @@
 ---
-title: "Example of An Abandoned House - Wholesale To Millions"
+title: "Example Of An Abandoned House - Wholesale To Millions"
 date: "2022-04-02"
 description: "w2m short"
 tags: [

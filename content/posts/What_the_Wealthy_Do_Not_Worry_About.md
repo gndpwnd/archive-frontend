@@ -1,5 +1,5 @@
 ---
-title: "What the Wealthy Do Not Worry About"
+title: "What The Wealthy Do Not Worry About"
 date: "2022-02-04"
 description: "gc short"
 tags: [

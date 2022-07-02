@@ -1,5 +1,5 @@
 ---
-title: "Discipline vs Talent - Jordan Peterson & Jocko Willink"
+title: "Discipline Vs Talent - Jordan Peterson & Jocko Willink"
 date: "2022-01-21"
 description: "jp short"
 tags: [

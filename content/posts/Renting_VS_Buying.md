@@ -1,5 +1,5 @@
 ---
-title: "Renting VS Buying"
+title: "Renting Vs Buying"
 date: "2022-01-22"
 description: "misc short"
 tags: [

@@ -1,5 +1,5 @@
 ---
-title: "How to Start"
+title: "How To Start"
 date: "2022-02-04"
 description: "gv short"
 tags: [

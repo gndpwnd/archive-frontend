@@ -1,5 +1,5 @@
 ---
-title: "How to Legally Avoid Taxes"
+title: "How To Legally Avoid Taxes"
 date: "2022-02-08"
 description: "misc short"
 tags: [

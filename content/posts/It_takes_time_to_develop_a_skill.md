@@ -1,5 +1,5 @@
 ---
-title: "It takes time to develop a skill"
+title: "It Takes Time To Develop A Skill"
 date: "2022-02-08"
 description: "gc short"
 tags: [

@@ -12,6 +12,6 @@ type: "post"
 ---
 {{< rawhtml >}}
     <video style="height:40vh;width:auto" overflow="hidden" controls>
-        <source src="https://clips.dev00ps.com/MISC/Become_Your_Own_Hero_1_%7C_David_Goggins_%7C_Shorts.mp4" type="video/mp4"> 
+        <source src="https://clips.dev00ps.com/MISC/Become_Your_Own_Hero%21_%7C_David_Goggins_%7C_Shorts.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

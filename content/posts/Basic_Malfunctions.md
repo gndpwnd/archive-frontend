@@ -1,9 +1,9 @@
 ---
 title: "Basic Malfunctions"
 date: "2022-04-02"
-description: "tools, tech, and techniques short"
+description: "tools, tech, and tactics short"
 tags: [
-    "guns",
+    "self-preservation",
     "TTT"
 ]
 categories: [

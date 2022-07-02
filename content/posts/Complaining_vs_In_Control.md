@@ -1,5 +1,5 @@
 ---
-title: "Complaining vs In Control"
+title: "Complaining Vs In Control"
 date: "2022-01-18"
 description: "gv short"
 tags: [

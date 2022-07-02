@@ -1,5 +1,5 @@
 ---
-title: "Alex Hormozi: 55 Minutes of Advice"
+title: "Alex Hormozi: 55 Minutes Of Advice"
 date: "2022-04-02"
 description: "alex hormozi lecture"
 tags: [

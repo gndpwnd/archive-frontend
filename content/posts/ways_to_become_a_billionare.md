@@ -1,5 +1,5 @@
 ---
-title: "A Tip to Network with Millionaires - Alex Hormozi"
+title: "A Tip To Network With Millionaires - Alex Hormozi"
 date: "2022-04-02"
 description: "ah short"
 tags: [

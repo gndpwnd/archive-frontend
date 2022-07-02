@@ -1,5 +1,5 @@
 ---
-title: "Maps of Meaning: 11"
+title: "Maps Of Meaning: 11"
 date: "2022-01-20"
 description: "jp lecture"
 tags: [

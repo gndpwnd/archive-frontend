@@ -1,5 +1,5 @@
 ---
-title: "Do Not Try and Time the Market"
+title: "Do Not Try And Time The Market"
 date: "2022-04-02"
 description: "tr short"
 tags: [

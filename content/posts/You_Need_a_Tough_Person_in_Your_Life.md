@@ -1,5 +1,5 @@
 ---
-title: "You Need a Tough Person in Your Life"
+title: "You Need A Tough Person In Your Life"
 date: "2022-02-08"
 description: "dp short"
 tags: [

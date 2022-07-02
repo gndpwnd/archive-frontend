@@ -1,5 +1,5 @@
 ---
-title: "Why I Do Not Have a TV"
+title: "Why I Do Not Have A Tv"
 date: "2022-02-04"
 description: "jp short"
 tags: [

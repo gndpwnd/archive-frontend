@@ -1,5 +1,5 @@
 ---
-title: "Your In the Game"
+title: "Your In The Game"
 date: "2022-02-04"
 description: "gv short"
 tags: [

@@ -1,5 +1,5 @@
 ---
-title: "How to Be More Successful - Jordan Peterson"
+title: "How To Be More Successful - Jordan Peterson"
 date: "2022-04-02"
 description: "jordan peterson lecture"
 tags: [

@@ -1,5 +1,5 @@
 ---
-title: "The Function of God - Jordan Peterson"
+title: "The Function Of God - Jordan Peterson"
 date: "2022-01-21"
 description: "jp clip"
 tags: [
@@ -8,6 +8,7 @@ tags: [
 categories: [
     "Society",
     "Psychology",
+    "Religion"
 ]
 type: "post"
 ---

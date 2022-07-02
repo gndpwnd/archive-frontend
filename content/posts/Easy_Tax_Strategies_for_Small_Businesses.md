@@ -1,5 +1,5 @@
 ---
-title: "Easy Tax Strategies for Small Businesses"
+title: "Easy Tax Strategies For Small Businesses"
 date: "2022-04-02"
 description: "ah short"
 tags: [

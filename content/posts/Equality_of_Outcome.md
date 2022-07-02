@@ -1,5 +1,5 @@
 ---
-title: "Equality of Outcome"
+title: "Equality Of Outcome"
 date: "2022-01-21"
 description: "jp clip"
 tags: [

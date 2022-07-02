@@ -1,3 +1,3 @@
 ---
-title: "Blog"
+title: "An Archive of Useful Information"
 ---

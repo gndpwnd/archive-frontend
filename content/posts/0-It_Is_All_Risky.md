@@ -1,7 +1,7 @@
 ---
 title: "It Is All Risky"
 date: "2022-04-02"
-description: "misc short"
+description: "foundation short"
 tags: [
     "MISC",
 ]

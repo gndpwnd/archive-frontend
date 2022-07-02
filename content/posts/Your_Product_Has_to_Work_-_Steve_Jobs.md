@@ -1,5 +1,5 @@
 ---
-title: "Your Product Has to Work - Steve Jobs"
+title: "Your Product Has To Work - Steve Jobs"
 date: "2022-04-02"
 description: "misc short"
 tags: [

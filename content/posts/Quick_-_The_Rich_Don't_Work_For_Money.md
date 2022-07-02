@@ -1,5 +1,5 @@
 ---
-title: "Quick - The Rich Don't Work For Money"
+title: "Quick - The Rich Don'T Work For Money"
 date: "2022-04-02"
 description: "rk short"
 tags: [

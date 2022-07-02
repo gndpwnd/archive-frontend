@@ -1,5 +1,5 @@
 ---
-title: "Who Do You Love Most in the World - Gary Vee"
+title: "Who Do You Love Most In The World - Gary Vee"
 date: "2022-02-04"
 description: "gv short"
 tags: [

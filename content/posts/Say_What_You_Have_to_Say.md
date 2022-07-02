@@ -1,5 +1,5 @@
 ---
-title: "Say What You Have to Say"
+title: "Say What You Have To Say"
 date: "2022-02-04"
 description: "jp short"
 tags: [

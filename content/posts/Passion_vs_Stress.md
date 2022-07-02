@@ -1,5 +1,5 @@
 ---
-title: "Passion vs Stress"
+title: "Passion Vs Stress"
 date: "2022-01-21"
 description: "ss short"
 tags: [

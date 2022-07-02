@@ -1,5 +1,5 @@
 ---
-title: "How to End Arguments"
+title: "How To End Arguments"
 date: "2022-04-02"
 description: "jordan peterson lecture"
 tags: [

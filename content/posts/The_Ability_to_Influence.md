@@ -1,5 +1,5 @@
 ---
-title: "The Ability to Influence"
+title: "The Ability To Influence"
 date: "2022-02-08"
 description: "rg short"
 tags: [

@@ -1,5 +1,5 @@
 ---
-title: "Why Men Choose to Stay Single"
+title: "Why Men Choose To Stay Single"
 date: "2022-04-02"
 description: "misc short"
 tags: [

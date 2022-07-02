@@ -1,5 +1,5 @@
 ---
-title: "Growing eCommerce"
+title: "Growing Ecommerce"
 date: "2022-02-04"
 description: "gv short"
 tags: [

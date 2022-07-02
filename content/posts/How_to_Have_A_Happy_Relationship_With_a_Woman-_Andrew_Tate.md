@@ -1,5 +1,5 @@
 ---
-title: "How to Have A Happy Relationship With a Woman- Andrew Tate"
+title: "How To Have A Happy Relationship With A Woman- Andrew Tate"
 date: "2022-04-02"
 description: "tate lecture"
 tags: [

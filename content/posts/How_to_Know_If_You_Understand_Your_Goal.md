@@ -1,5 +1,5 @@
 ---
-title: "How to Know If You Understand Your Goal"
+title: "How To Know If You Understand Your Goal"
 date: "2022-04-02"
 description: "misc short"
 tags: [

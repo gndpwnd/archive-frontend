@@ -1,5 +1,5 @@
 ---
-title: "Provide Value to Your Following"
+title: "Provide Value To Your Following"
 date: "2022-01-18"
 description: "gv short"
 tags: [

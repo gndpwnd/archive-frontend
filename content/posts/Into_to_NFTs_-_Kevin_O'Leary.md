@@ -1,5 +1,5 @@
 ---
-title: "Into to NFTs - Kevin O'Leary"
+title: "Into To Nfts - Kevin O'Leary"
 date: "2022-01-21"
 description: "ko short"
 tags: [

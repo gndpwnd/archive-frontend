@@ -1,5 +1,5 @@
 ---
-title: "Everyone Can be Rich"
+title: "Everyone Can Be Rich"
 date: "2022-02-08"
 description: "misc short"
 tags: [

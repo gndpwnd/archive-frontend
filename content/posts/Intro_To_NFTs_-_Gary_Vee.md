@@ -1,5 +1,5 @@
 ---
-title: "Intro To NFTs - Gary Vee"
+title: "Intro To Nfts - Gary Vee"
 date: "2022-01-18"
 description: "gv short"
 tags: [

@@ -1,5 +1,5 @@
 ---
-title: "How to Get Phone Numbers"
+title: "How To Get Phone Numbers"
 date: "2022-04-02"
 description: "ah short"
 tags: [

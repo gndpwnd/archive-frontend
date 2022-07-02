@@ -1,5 +1,5 @@
 ---
-title: "Tips for Manufacturing Overseas"
+title: "Tips For Manufacturing Overseas"
 date: "2022-04-02"
 description: "steviesells short"
 tags: [

@@ -1,5 +1,5 @@
 ---
-title: "4 Decisions to Make in Life"
+title: "4 Decisions To Make In Life"
 date: "2022-04-02"
 description: "ah short"
 tags: [

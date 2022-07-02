@@ -1,5 +1,5 @@
 ---
-title: "Business vs Personal Credit Card"
+title: "Business Vs Personal Credit Card"
 date: "2022-02-08"
 description: "di short"
 tags: [

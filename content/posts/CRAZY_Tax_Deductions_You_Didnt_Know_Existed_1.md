@@ -1,5 +1,5 @@
 ---
-title: "CRAZY Tax Deductions You Didnt Know Existed 1"
+title: "Crazy Tax Deductions You Didnt Know Existed 1"
 date: "2022-02-08"
 description: "di short"
 tags: [

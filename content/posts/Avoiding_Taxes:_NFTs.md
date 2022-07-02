@@ -1,5 +1,5 @@
 ---
-title: "Avoiding Taxes: NFTs"
+title: "Avoiding Taxes: Nfts"
 date: "2022-04-02"
 description: "misc short"
 tags: [

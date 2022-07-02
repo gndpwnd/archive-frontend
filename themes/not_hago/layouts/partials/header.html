@@ -25,14 +25,26 @@
                 <a class="nav-link" href='{{ "/tags" | relURL }}'>{{ i18n "menu_tags" }}</a>
               </li>
             </ul>
+
+
+
+            <!-- Eventually Make This A Usable Search Function  -->
+
+
+
             <!-- Search Form  -->
             <div id="search-wrapper">
               <form action="https://google.com/search">
                 <input type="search" placeholder='{{ i18n "menu_search_keyword" }}' name="q" class="search">
                 <i class="fa fa-search"></i>
-                <input type="hidden" name="sitesearch" value="{{ .Site.BaseURL }}" />
+                <input type="hidden" name="sitesearch" value="{{ .Site.BaseURL }}posts/" />
               </form>
-              </div>
+            
+            
+            
+            
+            
+            </div>
             </div>
           </div>
         </nav>

@@ -1,5 +1,5 @@
 ---
-title: "HOW HUMANITY GOT TO THIS POINT - Tate"
+title: "How Humanity Got To This Point - Tate"
 date: "2022-02-08"
 description: "misc short"
 tags: [

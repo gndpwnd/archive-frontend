@@ -1,5 +1,5 @@
 ---
-title: "Chasing Money - PitBull"
+title: "Chasing Money - Pitbull"
 date: "2022-02-08"
 description: "misc short"
 tags: [

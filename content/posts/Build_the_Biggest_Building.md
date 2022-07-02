@@ -1,5 +1,5 @@
 ---
-title: "Build the Biggest Building"
+title: "Build The Biggest Building"
 date: "2022-01-18"
 description: "gv short"
 tags: [

@@ -1,5 +1,5 @@
 ---
-title: "They Pick Up on Your Emotions"
+title: "They Pick Up On Your Emotions"
 date: "2022-02-08"
 description: "rg short"
 tags: [

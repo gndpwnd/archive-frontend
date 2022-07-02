@@ -1,5 +1,5 @@
 ---
-title: "Millionares VS Billionares"
+title: "Millionares Vs Billionares"
 date: "2022-01-21"
 description: "gc short"
 tags: [

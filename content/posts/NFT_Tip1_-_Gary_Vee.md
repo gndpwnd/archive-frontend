@@ -1,5 +1,5 @@
 ---
-title: "NFT Tip1 - Gary Vee"
+title: "Nft Tip1 - Gary Vee"
 date: "2022-01-18"
 description: "gv short"
 tags: [

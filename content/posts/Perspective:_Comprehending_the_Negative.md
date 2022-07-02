@@ -1,5 +1,5 @@
 ---
-title: "Perspective: Comprehending the Negative"
+title: "Perspective: Comprehending The Negative"
 date: "2022-01-21"
 description: "ss short"
 tags: [

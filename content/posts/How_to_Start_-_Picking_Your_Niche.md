@@ -1,5 +1,5 @@
 ---
-title: "How to Start: Picking Your Niche"
+title: "How To Start: Picking Your Niche"
 date: "2022-04-02"
 description: "alex hormozi lecture"
 tags: [

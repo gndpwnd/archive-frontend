@@ -1,5 +1,5 @@
 ---
-title: "How The SEALs Select People"
+title: "How The Seals Select People"
 date: "2022-04-02"
 description: "ss short"
 tags: [

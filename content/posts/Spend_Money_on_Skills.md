@@ -1,5 +1,5 @@
 ---
-title: "Spend Money on Skills"
+title: "Spend Money On Skills"
 date: "2022-04-02"
 description: "ah short"
 tags: [

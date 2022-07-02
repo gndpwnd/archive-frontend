@@ -1,5 +1,5 @@
 ---
-title: "Distribution of Money - Jordan Peterson"
+title: "Distribution Of Money - Jordan Peterson"
 date: "2022-01-22"
 description: "misc short"
 tags: [

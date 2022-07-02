@@ -1,5 +1,5 @@
 ---
-title: "Determining Liabilities and Opportunities"
+title: "Determining Liabilities And Opportunities"
 date: "2022-01-21"
 description: "ss short"
 tags: [

@@ -1,5 +1,5 @@
 ---
-title: "The Easiest Way to Create a competative Advantage"
+title: "The Easiest Way To Create A Competative Advantage"
 date: "2022-02-08"
 description: "ah short"
 tags: [

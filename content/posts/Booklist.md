@@ -15,7 +15,7 @@ type: "post"
 - This list has the possibility of being modified over time.
 ### Books
 1. **12 Rules for Life: An Antidote to Chaos - *Jordan Peterson***
- - [download](https://resources.dev00ps.com/12_Rules_for_Life_An_Antidote_to_haos_p.pdf)
+ - [download](https://resources.dev00ps.com/12_Rules_for_Life_An_Antidote_to_Chaos_p.pdf)
 2. **Maps of Meaning: The Architecture of Belief - *Jordan Peterson***
  - [download](https://resources.dev00ps.com/jordan_peterson-maps_of_meaning.pdf)
 3. **48 Laws of Power - *Robert Greene***

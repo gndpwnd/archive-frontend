@@ -1,5 +1,5 @@
 ---
-title: "How to Create Wealth Without Money"
+title: "How To Create Wealth Without Money"
 date: "2022-04-02"
 description: "misc short"
 tags: [

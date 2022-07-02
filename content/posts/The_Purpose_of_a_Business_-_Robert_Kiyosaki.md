@@ -1,5 +1,5 @@
 ---
-title: "The Purpose of a Business - Robert Kiyosaki"
+title: "The Purpose Of A Business - Robert Kiyosaki"
 date: "2022-01-21"
 description: "rk short"
 tags: [

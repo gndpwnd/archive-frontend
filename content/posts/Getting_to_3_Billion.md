@@ -1,5 +1,5 @@
 ---
-title: "Getting to 3 Billion"
+title: "Getting To 3 Billion"
 date: "2022-02-04"
 description: "gc short"
 tags: [

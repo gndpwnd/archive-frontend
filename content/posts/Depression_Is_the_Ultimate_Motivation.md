@@ -1,5 +1,5 @@
 ---
-title: "Depression Is the Ultimate Motivation"
+title: "Depression Is The Ultimate Motivation"
 date: "2022-04-02"
 description: "t short"
 tags: [

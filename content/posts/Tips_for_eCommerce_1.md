@@ -1,5 +1,5 @@
 ---
-title: "Tips for eCommerce 1"
+title: "Tips For Ecommerce 1"
 date: "2022-04-02"
 description: "steviesells short"
 tags: [

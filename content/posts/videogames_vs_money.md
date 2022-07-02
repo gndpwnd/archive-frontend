@@ -1,5 +1,5 @@
 ---
-title: "Video Games vs Money"
+title: "Video Games Vs Money"
 date: "2022-04-02"
 description: "ah short"
 tags: [

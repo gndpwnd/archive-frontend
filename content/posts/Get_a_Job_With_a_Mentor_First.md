@@ -1,5 +1,5 @@
 ---
-title: "Get a Job With a Mentor First"
+title: "Get A Job With A Mentor First"
 date: "2022-01-21"
 description: "gc short"
 tags: [

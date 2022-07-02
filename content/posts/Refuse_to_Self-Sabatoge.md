@@ -1,5 +1,5 @@
 ---
-title: "Refuse to Self-Sabatoge"
+title: "Refuse To Self-Sabatoge"
 date: "2022-04-02"
 description: "t short"
 tags: [

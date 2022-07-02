@@ -1,5 +1,5 @@
 ---
-title: "Morally Weak People Are a Problem"
+title: "Morally Weak People Are A Problem"
 date: "2022-01-21"
 description: "jp short"
 tags: [

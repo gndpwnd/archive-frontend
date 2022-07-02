@@ -1,5 +1,5 @@
 ---
-title: "Dividends and Volatility"
+title: "Dividends And Volatility"
 date: "2022-01-21"
 description: "ko short"
 tags: [

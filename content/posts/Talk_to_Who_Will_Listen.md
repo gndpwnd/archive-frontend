@@ -1,5 +1,5 @@
 ---
-title: "Talk to Who Will Listen"
+title: "Talk To Who Will Listen"
 date: "2022-01-21"
 description: "jp short"
 tags: [

@@ -1,5 +1,5 @@
 ---
-title: "You Should Not Want to Be Happy"
+title: "You Should Not Want To Be Happy"
 date: "2022-04-02"
 description: "t short"
 tags: [

@@ -1,5 +1,5 @@
 ---
-title: "Another Perception of Crypto - Robert Kiyosaki"
+title: "Another Perception Of Crypto - Robert Kiyosaki"
 date: "2022-01-21"
 description: "rk short"
 tags: [

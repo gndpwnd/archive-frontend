@@ -1,5 +1,5 @@
 ---
-title: "The Most Important Number in Real Estate"
+title: "The Most Important Number In Real Estate"
 date: "2022-02-08"
 description: "gc short"
 tags: [

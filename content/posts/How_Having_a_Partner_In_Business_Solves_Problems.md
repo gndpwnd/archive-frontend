@@ -1,5 +1,5 @@
 ---
-title: "How Having a Partner In Business Solves Problems"
+title: "How Having A Partner In Business Solves Problems"
 date: "2022-01-21"
 description: "gc short"
 tags: [

@@ -1,5 +1,5 @@
 ---
-title: "Being the Last to Give Your Opinion"
+title: "Being The Last To Give Your Opinion"
 date: "2022-01-21"
 description: "ss short"
 tags: [

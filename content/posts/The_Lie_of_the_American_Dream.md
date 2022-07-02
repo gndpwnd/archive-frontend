@@ -1,5 +1,5 @@
 ---
-title: "The Lie of the American Dream"
+title: "The Lie Of The American Dream"
 date: "2022-01-21"
 description: "gc short"
 tags: [

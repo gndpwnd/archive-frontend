@@ -1,5 +1,5 @@
 ---
-title: "Dreams vs Plans"
+title: "Dreams Vs Plans"
 date: "2022-04-02"
 description: "t short"
 tags: [
