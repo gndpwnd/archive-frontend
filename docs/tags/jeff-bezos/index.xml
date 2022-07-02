@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeff Bezos on Dev00ps Archive</title>
+    <link>https://archive.dev00ps.com/tags/jeff-bezos/</link>
+    <description>Recent content in Jeff Bezos on Dev00ps Archive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 22 Jan 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://archive.dev00ps.com/tags/jeff-bezos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reducing Risk - Jeff Bezos</title>
+      <link>https://archive.dev00ps.com/posts/reducing_risk_-_jeff_bezos/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://archive.dev00ps.com/posts/reducing_risk_-_jeff_bezos/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>Work-Life Circle - Jeff Bezos</title>
+      <link>https://archive.dev00ps.com/posts/work-life_circle_-_jeff_bezos/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://archive.dev00ps.com/posts/work-life_circle_-_jeff_bezos/</guid>
+      <description>  </description>
+    </item>
+    
+  </channel>
+</rss>

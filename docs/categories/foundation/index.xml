@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Foundation on Dev00ps Archive</title>
+    <link>https://archive.dev00ps.com/categories/foundation/</link>
+    <description>Recent content in Foundation on Dev00ps Archive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://archive.dev00ps.com/categories/foundation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>You Don&#39;T Know Who You Are</title>
+      <link>https://archive.dev00ps.com/posts/you_dont_know_who_you_are/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://archive.dev00ps.com/posts/you_dont_know_who_you_are/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>It Is All Risky</title>
+      <link>https://archive.dev00ps.com/posts/0-it_is_all_risky/</link>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://archive.dev00ps.com/posts/0-it_is_all_risky/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://archive.dev00ps.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://archive.dev00ps.com/about/</guid>
+      <description>Preserving A Valuable Resource The internet today is filled with endless hours worth of seemingly inspirational and motivational content. However this poses a problem as a viewer can become overwhelmed with the decision of what and where to learn. On top of that viewers must figure out how and when to apply what they learn.
+The goal of this archive is to focus on collecting the before-mentioned content on the internet and sort through the best parts.</description>
+    </item>
+    
+  </channel>
+</rss>
