@@ -4,13 +4,14 @@ for i in {1..50}; do
 
 	echo "---
 title: \"\"
-date: \"2022-07-01\"
-description: \"jp short\"
+date: \"2022-07-03\"
+description: \"nc short\"
 tags: [
-    \"Jordan Peterson\",
+    \"\",
+    \"SEALSWCC\"
 ]
 categories: [
-    \"Psychology\"
+    \"\"
 ]
 type: \"post\"
 ---

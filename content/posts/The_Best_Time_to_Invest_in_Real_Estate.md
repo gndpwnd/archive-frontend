@@ -1,5 +1,5 @@
 ---
-title: "The Best Time To Invest In Real Estate"
+title: "The Best Time To Invest In Real EsTate"
 date: "2022-02-08"
 description: "gc short"
 tags: [

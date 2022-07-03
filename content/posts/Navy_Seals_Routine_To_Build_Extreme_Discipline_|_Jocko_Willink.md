@@ -4,12 +4,12 @@ date: "2022-07-01"
 description: "jw short"
 tags: [
     "Discipline",
-    "Leadership",
     "Jocko Willink"
 ]
 categories: [
     "Psychology",
-    "Mindset"
+    "Mindset",
+    "Leadership"
 ]
 type: "post"
 ---

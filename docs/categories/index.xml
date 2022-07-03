@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Dev00ps Archive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Jul 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://archive.dev00ps.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,81 @@
     <item>
       <title>Business</title>
       <link>https://archive.dev00ps.com/categories/business/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://archive.dev00ps.com/categories/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finance</title>
+      <link>https://archive.dev00ps.com/categories/finance/</link>
+      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://archive.dev00ps.com/categories/finance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fit</title>
+      <link>https://archive.dev00ps.com/categories/fit/</link>
+      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://archive.dev00ps.com/categories/fit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fresh</title>
+      <link>https://archive.dev00ps.com/categories/fresh/</link>
+      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://archive.dev00ps.com/categories/fresh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leadership</title>
+      <link>https://archive.dev00ps.com/categories/leadership/</link>
+      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://archive.dev00ps.com/categories/leadership/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mindset</title>
+      <link>https://archive.dev00ps.com/categories/mindset/</link>
+      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://archive.dev00ps.com/categories/mindset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psychology</title>
+      <link>https://archive.dev00ps.com/categories/psychology/</link>
+      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://archive.dev00ps.com/categories/psychology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relationships</title>
+      <link>https://archive.dev00ps.com/categories/relationships/</link>
+      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://archive.dev00ps.com/categories/relationships/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Society</title>
+      <link>https://archive.dev00ps.com/categories/society/</link>
+      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://archive.dev00ps.com/categories/society/</guid>
       <description></description>
     </item>
     
@@ -26,60 +98,6 @@
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://archive.dev00ps.com/categories/foundation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fresh and Fit</title>
-      <link>https://archive.dev00ps.com/categories/fresh-and-fit/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://archive.dev00ps.com/categories/fresh-and-fit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mindset</title>
-      <link>https://archive.dev00ps.com/categories/mindset/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://archive.dev00ps.com/categories/mindset/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Psychology</title>
-      <link>https://archive.dev00ps.com/categories/psychology/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://archive.dev00ps.com/categories/psychology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Relationships</title>
-      <link>https://archive.dev00ps.com/categories/relationships/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://archive.dev00ps.com/categories/relationships/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Society</title>
-      <link>https://archive.dev00ps.com/categories/society/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://archive.dev00ps.com/categories/society/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Finance</title>
-      <link>https://archive.dev00ps.com/categories/finance/</link>
-      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://archive.dev00ps.com/categories/finance/</guid>
       <description></description>
     </item>
     

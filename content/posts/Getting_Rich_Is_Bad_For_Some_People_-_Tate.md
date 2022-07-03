@@ -1,7 +1,7 @@
 ---
 title: "Getting Rich Is Bad For Some People - Tate"
 date: "2022-04-02"
-description: "t short"
+description: "Tate short"
 tags: [
     "Tate",
 ]

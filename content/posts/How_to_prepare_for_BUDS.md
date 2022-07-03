@@ -4,10 +4,11 @@ date: "2022-07-01"
 description: "sr short"
 tags: [
     "Shawn Ryan",
+    "Fresh and Fit"
 ]
 categories: [
     "Mindset",
-    "Fresh and Fit"
+    "Fit"
 ]
 type: "post"
 ---

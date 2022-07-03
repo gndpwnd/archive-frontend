@@ -3,12 +3,12 @@ title: "Handling Mistakes"
 date: "2022-01-18"
 description: "gv short"
 tags: [
-    "Gary Vee",
-    "Leadership",
+    "Gary Vee"
 ]
 categories: [
     "Business",
     "Finance",
+    "Leadership"
 ]
 type: "post"
 ---

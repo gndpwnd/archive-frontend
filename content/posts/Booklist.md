@@ -60,8 +60,8 @@ type: "post"
  - [Vol. 3](https://resources.dev00ps.com/A_History_of_Religious_Ideas__Vol._3__From_Muhammad_to_the_Age_of_Reforms__8_PDFDrive__9.pdf)
 22. Affective Neuroscience - *Jaak Panksepp*
  - [download](https://resources.dev00ps.com/Affective_Neuroscience__The_Foundations_of_Human_and_Animal_Emotions__8_PDFDrive__9.pdf)
-23. Strategies For Real Estate - Donald Trump
- - [download](https://resources.dev00ps.com/Trump_Strategies_For_Real_Estate__8_PDFDrive__9.pdf)
+23. Strategies For Real EsTate - Donald Trump
+ - [download](https://resources.dev00ps.com/Trump_Strategies_For_Real_EsTate__8_PDFDrive__9.pdf)
 24. The Art of the Comeback - Donald Trump
  - [download](https://resources.dev00ps.com/Trump__The_Art_of_the_omeback__8_PDFDrive__9.pdf)
 25. The Art of the Deal - Donald Trump
