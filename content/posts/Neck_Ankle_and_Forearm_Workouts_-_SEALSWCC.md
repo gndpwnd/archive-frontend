@@ -1,5 +1,5 @@
 ---
-title: "Neck, Ankle, and Forearm Workouts - SEALSWCC"
+title: "Neck, Ankle, And Forearm Workouts - Sealswcc"
 date: "2022-07-03"
 description: "fit short"
 tags: [

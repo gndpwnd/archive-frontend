@@ -6,7 +6,8 @@ tags: [
     "Jordan Peterson",
 ]
 categories: [
-    "Psychology"
+    "Psychology",
+    "Foundation"
 ]
 type: "post"
 ---

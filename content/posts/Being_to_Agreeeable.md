@@ -1,5 +1,5 @@
 ---
-title: "Being To Agreeeable"
+title: "Being To Agreeable"
 date: "2022-07-01"
 description: "jp short"
 tags: [

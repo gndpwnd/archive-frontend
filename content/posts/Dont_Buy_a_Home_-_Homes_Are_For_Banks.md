@@ -1,5 +1,5 @@
 ---
-title: "Dont Buy A Home - Homes Are For Banks"
+title: "Don't Buy A Home - Homes Are For Banks"
 date: "2022-02-04"
 description: "gc short"
 tags: [
@@ -14,6 +14,6 @@ type: "post"
 ---
 {{< rawhtml >}}
     <video style="height:40vh;width:auto" overflow="hidden" controls>
-        <source src="https://clips.dev00ps.com/Grant_ardone/The_American_Dream_SCAM_1.mp4" type="video/mp4"> 
+        <source src="https://clips.dev00ps.com/Grant_Cardone/The_American_Dream_SCAM%21.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

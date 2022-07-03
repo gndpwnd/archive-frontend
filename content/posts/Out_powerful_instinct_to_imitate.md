@@ -1,5 +1,5 @@
 ---
-title: "Our Powerful Instinct To ImiTate"
+title: "Our Powerful Instinct To Imitate"
 date: "2022-07-01"
 description: "jp short"
 tags: [
@@ -12,7 +12,7 @@ type: "post"
 ---
 {{< rawhtml >}}
     <video style="height:40vh;width:auto" overflow="hidden" controls>
-        <source src="https://clips.dev00ps.com/Jordan_Peterson/Out_powerful_instinct_to_imiTate.mp4" type="video/mp4"> 
+        <source src="https://clips.dev00ps.com/Jordan_Peterson/Out_powerful_instinct_to_imitate.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}
 

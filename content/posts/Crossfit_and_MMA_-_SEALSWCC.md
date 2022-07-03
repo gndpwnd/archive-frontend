@@ -1,5 +1,5 @@
 ---
-title: "Crossfit and MMA - SEALSWCC"
+title: "Crossfit And Mma - Sealswcc"
 date: "2022-07-03"
 description: "fit short"
 tags: [

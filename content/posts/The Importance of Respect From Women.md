@@ -1,5 +1,5 @@
 ---
-title: "The Importance of Respect From Women"
+title: "The Importance Of Respect From Women"
 date: "2022-07-03"
 description: "Tate lecture"
 tags: [

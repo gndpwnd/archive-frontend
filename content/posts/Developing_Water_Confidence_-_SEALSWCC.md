@@ -1,5 +1,5 @@
 ---
-title: "Developing Water Confidence - SEALSWCC"
+title: "Developing Water Confidence - Sealswcc"
 date: "2022-07-03"
 description: "fit short"
 tags: [

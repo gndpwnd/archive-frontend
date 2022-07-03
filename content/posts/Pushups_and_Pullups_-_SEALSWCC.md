@@ -1,5 +1,5 @@
 ---
-title: "Pushups and Pullups - SEALSWCC"
+title: "Pushups And Pullups - Sealswcc"
 date: "2022-07-03"
 description: "fit short"
 tags: [

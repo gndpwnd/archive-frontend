@@ -1,5 +1,5 @@
 ---
-title: "Run Training - SEALSWCC"
+title: "Run Training - Sealswcc"
 date: "2022-07-03"
 description: "fit short"
 tags: [

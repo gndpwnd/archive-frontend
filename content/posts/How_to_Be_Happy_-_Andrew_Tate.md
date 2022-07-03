@@ -1,5 +1,5 @@
 ---
-title: "How_to_Be_Happy - Andrew_Tate"
+title: "How To Be Happy - Andrew Tate"
 date: "2022-07-01"
 description: "Tate short"
 tags: [

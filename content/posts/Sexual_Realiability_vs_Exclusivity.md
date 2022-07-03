@@ -1,5 +1,5 @@
 ---
-title: "Sexual Realiability vs Exclusivity"
+title: "Sexual Realiability Vs Exclusivity"
 date: "2022-07-03"
 description: "Tate short"
 tags: [

@@ -1,5 +1,5 @@
 ---
-title: "Body Composition - SEALSWCC"
+title: "Body Composition - Sealswcc"
 date: "2022-07-03"
 description: "fit short"
 tags: [

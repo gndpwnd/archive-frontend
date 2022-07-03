@@ -9,6 +9,7 @@ categories: [
     "Business",
     "Finance",
     "Mindset",
+    "Leadership"
 ]
 type: "post"
 ---

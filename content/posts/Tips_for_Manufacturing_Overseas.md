@@ -12,6 +12,6 @@ type: "post"
 ---
 {{< rawhtml >}}
     <video style="height:40vh;width:auto" overflow="hidden" controls>
-        <source src="https://clips.dev00ps.com/steviesells/A_multimillionaire_EO%E2%80%99s_secret_manufacturing_tip.mp4" type="video/mp4"> 
+        <source src="https://clips.dev00ps.com/steviesells/A_multimillionaire_CEO%E2%80%99s_secret_manufacturing_tip.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

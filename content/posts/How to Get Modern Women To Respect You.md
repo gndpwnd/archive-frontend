@@ -1,5 +1,5 @@
 ---
-title: "How to Get Modern Women To Respect You"
+title: "How To Get Modern Women To Respect You"
 date: "2022-07-03"
 description: "Tate lecture"
 tags: [

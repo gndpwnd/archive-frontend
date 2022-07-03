@@ -1,5 +1,5 @@
 ---
-title: "Growing Up vs Settling Down"
+title: "Growing Up Vs Settling Down"
 date: "2022-07-01"
 description: "Tate short"
 tags: [

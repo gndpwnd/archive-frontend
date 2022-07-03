@@ -1,5 +1,5 @@
 ---
-title: "Core Body Strength - SEALSWCC"
+title: "Core Body Strength - Sealswcc"
 date: "2022-07-03"
 description: "fit short"
 tags: [

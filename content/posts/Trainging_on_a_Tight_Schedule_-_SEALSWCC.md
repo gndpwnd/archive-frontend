@@ -1,5 +1,5 @@
 ---
-title: "Trainging on a Tight Schedule - SEALSWCC"
+title: "Trainging On A Tight Schedule - Sealswcc"
 date: "2022-07-03"
 description: "fit short"
 tags: [

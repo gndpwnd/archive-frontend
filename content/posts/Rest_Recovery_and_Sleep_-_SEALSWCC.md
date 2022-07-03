@@ -1,5 +1,5 @@
 ---
-title: "Rest, Recovery, and Sleep - SEALSWCC"
+title: "Rest, Recovery, And Sleep - Sealswcc"
 date: "2022-07-03"
 description: "fit short"
 tags: [

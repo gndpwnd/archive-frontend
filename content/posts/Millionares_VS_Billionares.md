@@ -14,6 +14,6 @@ type: "post"
 ---
 {{< rawhtml >}}
     <video style="height:40vh;width:auto" overflow="hidden" controls>
-        <source src="https://clips.dev00ps.com/Grant_ardone/millionare_v_billionare.mp4" type="video/mp4"> 
+        <source src="https://clips.dev00ps.com/Grant_Cardone/millionare_v_billionare.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

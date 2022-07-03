@@ -1,5 +1,5 @@
 ---
-title: "Actions_speak_louder_than_words"
+title: "Actions Speak Louder Than Words"
 date: "2022-07-01"
 description: "sr short"
 tags: [

@@ -1,5 +1,5 @@
 ---
-title: "Men need to be a Vending Machine"
+title: "Men Need To Be A Vending Machine"
 date: "2022-07-01"
 description: "Tate short"
 tags: [

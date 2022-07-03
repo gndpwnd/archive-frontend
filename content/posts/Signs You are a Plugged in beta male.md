@@ -1,5 +1,5 @@
 ---
-title: "Signs You are a Plugged in beta male"
+title: "Signs You Are A Plugged In Beta Male"
 date: "2022-07-03"
 description: "rc lecture"
 tags: [

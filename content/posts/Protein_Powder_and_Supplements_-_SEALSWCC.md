@@ -1,5 +1,5 @@
 ---
-title: "Protein Powder and Supplements - SEALSWCC"
+title: "Protein Powder And Supplements - Sealswcc"
 date: "2022-07-03"
 description: "fit short"
 tags: [

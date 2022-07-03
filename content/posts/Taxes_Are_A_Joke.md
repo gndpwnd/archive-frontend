@@ -8,12 +8,12 @@ tags: [
 categories: [
     "Business",
     "Finance",
-    "Mindset",
+    "Mindset"
 ]
 type: "post"
 ---
 {{< rawhtml >}}
     <video style="height:40vh;width:auto" overflow="hidden" controls>
-        <source src="https://clips.dev00ps.com/Grant_ardone/How_to_Reduce_Your_Taxes_shorts.mp4" type="video/mp4"> 
+        <source src="https://clips.dev00ps.com/Grant_Cardone/How_to_Reduce_Your_Taxes_shorts.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

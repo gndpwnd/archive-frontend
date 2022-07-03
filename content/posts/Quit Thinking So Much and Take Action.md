@@ -1,5 +1,5 @@
 ---
-title: "Quit Thinking So Much and Take Action"
+title: "Quit Thinking So Much And Take Action"
 date: "2022-07-03"
 description: "jw short"
 tags: [

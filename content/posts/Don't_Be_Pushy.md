@@ -1,5 +1,5 @@
 ---
-title: "Don't Be Pushy"
+title: "Don'T Be Pushy"
 date: "2022-07-01"
 description: "Tate short"
 tags: [

@@ -1,5 +1,5 @@
 ---
-title: "So You Want To be Normal?"
+title: "So You Want To Be Normal?"
 date: "2022-07-01"
 description: "fit short"
 tags: [

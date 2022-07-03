@@ -1,5 +1,5 @@
 ---
-title: "Don't Overtrain"
+title: "Don'T Overtrain"
 date: "2022-07-03"
 description: "fit short"
 tags: [

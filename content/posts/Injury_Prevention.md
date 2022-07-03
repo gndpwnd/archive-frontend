@@ -1,5 +1,5 @@
 ---
-title: "Injury Prevention - SEALSWCC"
+title: "Injury Prevention - Sealswcc"
 date: "2022-07-03"
 description: "fit short"
 tags: [

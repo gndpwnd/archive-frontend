@@ -1,5 +1,5 @@
 ---
-title: "How_to_prepare_for_BUDS"
+title: "How To Prepare For Buds"
 date: "2022-07-01"
 description: "sr short"
 tags: [

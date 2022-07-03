@@ -1,5 +1,5 @@
 ---
-title: "Attention is the Most Valueable Currency"
+title: "Attention Is The Most Valueable Currency"
 date: "2022-07-03"
 description: "Tate short"
 tags: [

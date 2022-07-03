@@ -9,7 +9,7 @@
         </time>
         {{ $baseUrl := .Site.BaseURL }} {{ range.Params.categories }}
         <i class="far fa-folder"></i>
-        <a href="{{ $baseUrl }}/categories/{{ . | urlize }}">{{ . }}</a>
+        <a href="{{ $baseUrl }}categories/{{ . | urlize }}">{{ . }}</a>
         {{ end }}
       </div>
     </a>

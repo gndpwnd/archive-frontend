@@ -12,6 +12,6 @@ type: "post"
 ---
 {{< rawhtml >}}
     <video style="height:40vh;width:auto" overflow="hidden" controls>
-        <source src="https://clips.dev00ps.com/Robert_Kiyosaki/Robert_Kiyosaki_On_Why_School_Is_Wrong_For_Doing_This%3F_1.mp4" type="video/mp4"> 
+        <source src="https://clips.dev00ps.com/Robert_Kiyosaki/Robert_Kiyosaki_On_Why_School_Is_Wrong_For_Doing_This%3F%21.mp4" type="video/mp4"> 
     </video>
 {{< /rawhtml >}}

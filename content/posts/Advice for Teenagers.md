@@ -1,5 +1,5 @@
 ---
-title: "Advice for Younger People - Tristan Tate"
+title: "Advice For Younger People - Tristan Tate"
 date: "2022-07-03"
 description: "Tate short"
 tags: [

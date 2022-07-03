@@ -1,5 +1,5 @@
 ---
-title: "How to Beat Hotels"
+title: "How To Beat Hotels"
 date: "2022-07-03"
 description: "mt short"
 tags: [

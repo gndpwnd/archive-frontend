@@ -1,5 +1,5 @@
 ---
-title: "2_Tips_on_How_to_Become_Rich"
+title: "2 Tips On How To Become Rich"
 date: "2022-07-01"
 description: "Tate short"
 tags: [

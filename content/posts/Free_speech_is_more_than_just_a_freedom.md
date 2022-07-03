@@ -1,5 +1,5 @@
 ---
-title: "Free Speech Is More Than Just A Freedom.Mp4"
+title: "Free Speech Is More Than Just A Freedom"
 date: "2022-07-01"
 description: "jp short"
 tags: [

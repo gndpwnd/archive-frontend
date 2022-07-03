@@ -1,5 +1,5 @@
 ---
-title: "How_to_raise_your_daughter_to_not_do_Porn"
+title: "How To Raise Your Daughter To Not Do Porn"
 date: "2022-07-01"
 description: "Tate short"
 tags: [
