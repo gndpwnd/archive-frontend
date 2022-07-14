@@ -24,6 +24,12 @@
               <li class="nav-item">
                 <a class="nav-link" href='{{ "/tags" | relURL }}'>{{ i18n "menu_tags" }}</a>
               </li>
+              <li class="nav-item">
+                <a class="nav-link" href='{{ "/posts/booklist/" | relURL }}'>Book List</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href='{{ "/about" | relURL }}'>About</a>
+              </li>
             </ul>
 
 
@@ -35,9 +41,10 @@
             <!-- Search Form  -->
             <div id="search-wrapper">
               <form action="https://google.com/search">
-                <input type="search" placeholder='{{ i18n "menu_search_keyword" }}' name="q" class="search">
-                <i class="fa fa-search"></i>
-                <input type="hidden" name="sitesearch" value="{{ .Site.BaseURL }}posts/" />
+                <input class="search" id="searchInput" type="text" placeholder="press '/' to start">
+                <u1 id="searchResult">
+
+                </u1>
               </form>
             
             

@@ -20,3 +20,8 @@ paginate = 4
 [Author]
   name = "YOUR_NAME"
   website = "https://dev00ps.com"
+
+[outputs]
+    home = ["HTML", "JSON"]
+
+

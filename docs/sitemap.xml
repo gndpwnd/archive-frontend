@@ -3,27 +3,302 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://archive.dev00ps.com/posts/advice-for-teenagers/</loc>
-    <lastmod>2022-07-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://archive.dev00ps.com/posts/be-authentically-yourself/</loc>
-    <lastmod>2022-07-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://archive.dev00ps.com/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/posts/bjj_techniques_for_weapon_takeaway/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/tags/bug-out/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/posts/bug_out_load_out/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/posts/bug_out_recon/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/categories/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/posts/clearing_rooms_alone_-_demo/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/posts/controlled_pairs_vs_double_tap/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/tags/cqb/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/tags/fieldcraft-survival/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/categories/fit/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/tags/fresh-and-fit/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/posts/fundementals_of_situational_awareness/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/tags/gbrs-group/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/posts/grip_matters_-_pistols/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/posts/grip_training/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/posts/gun_fighting_fundementals/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/posts/gun_maneuvers/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/posts/high_port_vs_low_port/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/posts/how_to_induce_stress/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/posts/how_to_move_and_shoot_with_a_carbine/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/posts/how_to_start_in_self_defense/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/posts/how_to_train_to_be_tougher_-_tim_kennedy/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/tags/jokco-willink/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/tags/mike-glover/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/tags/mma/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/posts/new_tactics/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/posts/one_man_cqb_-_fieldcraft_survival/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/posts/one_man_cqb_-_war_poet/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/posts/ooda_loop/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/posts/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/posts/reload_drill/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/categories/self-preservation/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/tags/shawn-ryan/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/tags/sheepdog-respnse/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/tags/sheepdog-response/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/posts/situational_awareness_-_how_to_dress/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/posts/small_unit_tactics_-_the_peel_part_1/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/posts/small_unit_tactics/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/tags/sut/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/tags/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/tags/tim-kennedy/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/posts/vehicle_dynamics/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/tags/war-poet/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/tags/war-poet-society/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/posts/when_room_clearing_is_a_bad_idea/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/posts/make_charcoal/</loc>
+    <lastmod>2022-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/posts/make_gunpowder/</loc>
+    <lastmod>2022-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/posts/make_rocket_engines/</loc>
+    <lastmod>2022-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/posts/make_smoke_bombs_-_part_1/</loc>
+    <lastmod>2022-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/posts/make_smoke_bombs_-_part_2/</loc>
+    <lastmod>2022-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/categories/not-cooking/</loc>
+    <lastmod>2022-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/posts/rocket_engine_demo/</loc>
+    <lastmod>2022-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/posts/simple_taser/</loc>
+    <lastmod>2022-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/tags/splode/</loc>
+    <lastmod>2022-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/tags/zap/</loc>
+    <lastmod>2022-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/posts/advice_for_teenagers/</loc>
     <lastmod>2022-07-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://archive.dev00ps.com/posts/attention-is-the-most-valueable-currency/</loc>
+    <loc>https://archive.dev00ps.com/posts/be_authentically_yourself/</loc>
     <lastmod>2022-07-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://archive.dev00ps.com/posts/being-nice-for-free/</loc>
+    <loc>https://archive.dev00ps.com/posts/attention_is_the_most_valueable_currency/</loc>
+    <lastmod>2022-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archive.dev00ps.com/posts/being_nice_for_free/</loc>
     <lastmod>2022-07-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -34,11 +309,6 @@
   
   <url>
     <loc>https://archive.dev00ps.com/categories/business/</loc>
-    <lastmod>2022-07-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://archive.dev00ps.com/categories/</loc>
     <lastmod>2022-07-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,7 +338,7 @@
   </url>
   
   <url>
-    <loc>https://archive.dev00ps.com/categories/fit/</loc>
+    <loc>https://archive.dev00ps.com/categories/foundation/</loc>
     <lastmod>2022-07-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,17 +348,12 @@
   </url>
   
   <url>
-    <loc>https://archive.dev00ps.com/tags/fresh-and-fit/</loc>
+    <loc>https://archive.dev00ps.com/posts/how_to_beat_hotels/</loc>
     <lastmod>2022-07-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://archive.dev00ps.com/posts/how-to-beat-hotels/</loc>
-    <lastmod>2022-07-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://archive.dev00ps.com/posts/how-to-get-modern-women-to-respect-you/</loc>
+    <loc>https://archive.dev00ps.com/posts/how_to_get_modern_women_to_respect_you/</loc>
     <lastmod>2022-07-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -143,12 +408,7 @@
   </url>
   
   <url>
-    <loc>https://archive.dev00ps.com/posts/</loc>
-    <lastmod>2022-07-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://archive.dev00ps.com/posts/power-posture-tony-robins/</loc>
+    <loc>https://archive.dev00ps.com/posts/power_posture_-_tony_robins/</loc>
     <lastmod>2022-07-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -168,7 +428,7 @@
   </url>
   
   <url>
-    <loc>https://archive.dev00ps.com/posts/quit-thinking-so-much-and-take-action/</loc>
+    <loc>https://archive.dev00ps.com/posts/quit_thinking_so_much_and_take_action/</loc>
     <lastmod>2022-07-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -203,7 +463,7 @@
   </url>
   
   <url>
-    <loc>https://archive.dev00ps.com/posts/signs-you-are-a-plugged-in-beta-male/</loc>
+    <loc>https://archive.dev00ps.com/posts/signs_you_are_a_plugged_in_beta_male/</loc>
     <lastmod>2022-07-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -213,22 +473,17 @@
   </url>
   
   <url>
-    <loc>https://archive.dev00ps.com/tags/</loc>
-    <lastmod>2022-07-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://archive.dev00ps.com/tags/tate/</loc>
     <lastmod>2022-07-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://archive.dev00ps.com/posts/the-avengers-assemble/</loc>
+    <loc>https://archive.dev00ps.com/posts/the_avengers_assemble/</loc>
     <lastmod>2022-07-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://archive.dev00ps.com/posts/the-importance-of-respect-from-women/</loc>
+    <loc>https://archive.dev00ps.com/posts/the_importance_of_respect_from_women/</loc>
     <lastmod>2022-07-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -349,11 +604,6 @@
   
   <url>
     <loc>https://archive.dev00ps.com/posts/finding_a_fighting_gym/</loc>
-    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://archive.dev00ps.com/categories/foundation/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -524,11 +774,6 @@
   
   <url>
     <loc>https://archive.dev00ps.com/posts/resources_women_extract/</loc>
-    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://archive.dev00ps.com/tags/shawn-ryan/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -943,11 +1188,6 @@
   </url>
   
   <url>
-    <loc>https://archive.dev00ps.com/tags/self-preservation/</loc>
-    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://archive.dev00ps.com/tags/simon-sinek/</loc>
     <lastmod>2022-04-02T00:00:00+00:00</lastmod>
   </url>
@@ -994,11 +1234,6 @@
   
   <url>
     <loc>https://archive.dev00ps.com/posts/tips_for_manufacturing_overseas/</loc>
-    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://archive.dev00ps.com/tags/ttt/</loc>
     <lastmod>2022-04-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -1064,11 +1299,6 @@
   
   <url>
     <loc>https://archive.dev00ps.com/posts/booklist/</loc>
-    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://archive.dev00ps.com/categories/more-resources/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
   </url>
   

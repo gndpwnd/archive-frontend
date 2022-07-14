@@ -5,7 +5,6 @@ description: "More Resources To Reference"
 tags: [
 ]
 categories: [
-    "More Resources",
 ]
 type: "post"
 ---

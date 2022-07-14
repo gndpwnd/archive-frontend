@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sut on Dev00ps Archive</title>
+    <link>https://archive.dev00ps.com/tags/sut/</link>
+    <description>Recent content in sut on Dev00ps Archive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 07 Jul 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://archive.dev00ps.com/tags/sut/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Small Unit Tactics - The Peel Part 1</title>
+      <link>https://archive.dev00ps.com/posts/small_unit_tactics_-_the_peel_part_1/</link>
+      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://archive.dev00ps.com/posts/small_unit_tactics_-_the_peel_part_1/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>Small Unit Tactics Intro</title>
+      <link>https://archive.dev00ps.com/posts/small_unit_tactics/</link>
+      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://archive.dev00ps.com/posts/small_unit_tactics/</guid>
+      <description>  </description>
+    </item>
+    
+  </channel>
+</rss>

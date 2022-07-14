@@ -1,5 +1,5 @@
 ---
-title: "Don't Buy A Home - Homes Are For Banks"
+title: "Don'T Buy A Home - Homes Are For Banks"
 date: "2022-02-04"
 description: "gc short"
 tags: [

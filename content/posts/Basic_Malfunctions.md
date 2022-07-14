@@ -3,10 +3,9 @@ title: "Basic Malfunctions"
 date: "2022-04-02"
 description: "tools, tech, and tactics short"
 tags: [
-    "self-preservation",
-    "TTT"
 ]
 categories: [
+    "Self Preservation"
 ]
 type: "post"
 ---

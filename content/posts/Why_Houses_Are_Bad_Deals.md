@@ -8,8 +8,7 @@ tags: [
 categories: [
     "Business",
     "Finance",
-    "Mindset",
-    "Foundation"
+    "Mindset"
 ]
 type: "post"
 ---
