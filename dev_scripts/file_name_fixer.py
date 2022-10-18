@@ -13,7 +13,7 @@ import re
 
 class FileNameFixer:
 
-    def get_folder(self):
+    def get_folder():
         print("""
         {}Example Usage: 
         {}
@@ -72,7 +72,7 @@ class FileNameFixer:
     # start with 0 matches
     num_file_matches = 0
 
-    def clear_screen(self):
+    def clear_screen():
         os.system('cls' if os.name == 'nt' else 'clear')
 
     def get_num_file_matches(self, folder_path, old):

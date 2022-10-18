@@ -1,5 +1,3 @@
-from asyncore import write
-from hashlib import new
 import os
 from colorama import Fore
 from file_name_fixer import FileNameFixer
@@ -7,6 +5,8 @@ import datetime
 
 # Need to fix actually outputting URL
 # Also need to be able to update urls after second file name fixer is run
+
+prog_str = Fore.GREEN + "\n[+] "
 
 # get the current date
 current_date = datetime.datetime.now()
@@ -35,7 +35,7 @@ def determine_hosting_url(file_path):
 
             url_to_file = hosting_url + new_file_path
 
-    print(Fore.GREEN + "[+]" + Fore.YELLOW + "URL: " + Fore.WHITE + url_to_file)
+    print(prog_str + Fore.YELLOW + "URL: " + Fore.WHITE + url_to_file)
     return url_to_file
 
 def get_src(hosting_url, file_path):
@@ -56,8 +56,8 @@ def get_info(post_name, file_path, ext):
         post_name = input(Fore.YELLOW + "Enter new name: " + Fore.WHITE)
         new_file = "/".join(file_path.split("/")[:-1]) + "/" + post_name.lower() + ext
         os.rename(file_path, new_file)
-        print(Fore.GREEN + "\n[+]" + Fore.YELLOW + " Name changed to: " + Fore.WHITE + post_name)
-        print(Fore.GREEN + "[+]" + Fore.YELLOW + " File path changed to:\n" + Fore.WHITE + new_file)
+        print(prog_str + Fore.YELLOW + " Name changed to: " + Fore.WHITE + post_name)
+        print(prog_str + Fore.YELLOW + " File path changed to:\n" + Fore.WHITE + new_file)
     elif change_name == "n":
         pass
     elif change_name == "":
@@ -145,7 +145,7 @@ def write_post(posts_dir, post_name, template):
 
     with open(posts_dir + post_name, "w") as f:
         f.write(template)
-        print(Fore.GREEN + "[+]" + Fore.BLUE + " Post generated: " + Fore.YELLOW + posts_dir + post_name)
+        print(prog_str + Fore.BLUE + " Post generated: " + Fore.YELLOW + posts_dir + post_name)
     f.close()
 
 def get_count():
@@ -158,14 +158,14 @@ def get_count():
     return count
 
 def main(media_dir, posts_dir):
-    clear_screen()
     t_files = get_count()
-    print(Fore.GREEN + "[+]" + Fore.BLUE + "Found {} files to generate posts for".format(t_files))
+    print(prog_str + Fore.BLUE + "Found " + Fore.WHITE + "{}".format(t_files) + Fore.BLUE + " files to generate posts for")
 
-    posts_dir = "./posts/"
     # if folder doesn't exist, create it
     if not os.path.exists(posts_dir):
         os.mkdir(posts_dir)
+
+    input(prog_str + "Press Enter to continue...")
 
     curr_file = 1
     for path, subdirs, files in os.walk(media_dir):
@@ -176,6 +176,7 @@ def main(media_dir, posts_dir):
                     template = create_template(name, file_path, ext, t_files, curr_file)
                     write_post(posts_dir, name, template)
                     curr_file += 1
+    
 
 def init():
     # get content directory
@@ -184,7 +185,7 @@ def init():
     else:
         print(Fore.YELLOW + "Example: " + Fore.WHITE + "/home/user/Desktop/archive/")
 
-    media_dir = input(Fore.YELLOW + "Enter the directory with files generate posts of: " + Fore.WHITE)
+    media_dir = input(Fore.YELLOW + "Enter the directory with media files to generate posts of: " + Fore.WHITE)
     FileNameFixer(media_dir)
 
     # get posts directory
@@ -194,7 +195,7 @@ def init():
         print(Fore.YELLOW + "Example: " + Fore.WHITE + "/home/user/Desktop/archive/content/posts/")
     posts_dir = input(Fore.YELLOW + "Enter the directory to write posts to: " + Fore.WHITE)
     if posts_dir == "":
-        print(Fore.RED + "An Error Occured, Defaulting to:" + Fore.WHITE + media_dir + "/posts/")
+        print(Fore.RED + "An Error Occured, Defaulting to: " + Fore.WHITE + media_dir + "posts/")
         posts_dir = media_dir + "/posts/"
     
     if media_dir[:-1] == " ":
@@ -212,6 +213,6 @@ main(media_dir, posts_dir)
 
 clear_screen()
 
-print(Fore.GREEN + "\n[+]" + Fore.BLUE  + "Running a double check on file names...\n")
+print(prog_str + Fore.BLUE  + " Running a double check on file names...\n")
 FileNameFixer(media_dir)
-print(Fore.GREEN + "\n[+]" + Fore.BLUE + " Finished generating posts" + Fore.GREEN + " [+]\n")
+print(prog_str + Fore.BLUE + " Finished generating posts " + prog_str.replace("\n", ""))
