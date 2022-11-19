@@ -1,4 +1,4 @@
-baseURL = "https://archive.dev00ps.com/"
+baseURL = ""
 languageCode = "en-US"
 title = "Dev00ps Archive"
 theme = "not_hago"
