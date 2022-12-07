@@ -1,6 +1,7 @@
 <div class="top-area">
   <div class="top-video {{ if .Title }}top-video-small {{ end }}">
-    <div id="waves" class="video"></div>
+    <img class="banner" src="{{ .Site.Params.banner }}" alt="banner">
+    <!-- <div id="waves" class="video"></div> -->
     <div class="container">
       <div class="title-message">
         {{ if .Title }}

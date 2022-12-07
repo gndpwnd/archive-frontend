@@ -207,6 +207,15 @@ img {
   .top-area .top-video-small {
     min-height: 150px; }
 
+.banner {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10%;
+  margin-bottom: auto;
+  width: 50%;
+}
+
 .post-summary {
   overflow: hidden; }
 

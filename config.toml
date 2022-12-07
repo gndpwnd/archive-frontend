@@ -1,6 +1,6 @@
 baseURL = "https://archive.dev00ps.com/"
 languageCode = "en-US"
-title = "Dev00ps Archive"
+title = ""
 theme = "not_hago"
 publishDir = "docs"
 
@@ -11,14 +11,15 @@ paginate = 4
 
 
 [Params]
-  description = "DESCRIPTION"
-  subtitle = "YOUR_SUB_TITLE"
-  logo = "/images/logo.png"
-  favicon = "/favicon.ico"
+  description = ""
+  subtitle = ""
+  logo = "/images/archive1.webp"
+  favicon = "/archive1.ico"
+  banner = "/images/archive2.webp"
   comments = true
 
 [Author]
-  name = "YOUR_NAME"
+  name = "gndpwnd"
   website = "https://dev00ps.com"
 
 [outputs]
